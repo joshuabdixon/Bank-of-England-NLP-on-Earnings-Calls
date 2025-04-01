@@ -57,7 +57,7 @@ This repository focuses on the **RAG** component of a collaborative AI project. 
    pip install -r requirements.txt
    ```
 4. **API Keys**:  
-   - Store any required keys (e.g. OpenAI, as shown in code) in a `.env` file. See `env.template` for guidance.
+   - Store any required keys (e.g. OpenAI, as shown in code) in a `.env` file. This helps keep sensitive information secure and makes it easier to configure the project across different environments. See `env.template` for guidance.
 
 ---
 
