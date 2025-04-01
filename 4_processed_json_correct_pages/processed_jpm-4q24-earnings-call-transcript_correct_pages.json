@@ -1,0 +1,312 @@
+[
+    {
+        "Type": "Question",
+        "Text": "Hi. Good morning. Jeremy, I wanted to ask about capital, and I know you get this question a lot about the kind of high-class dilemma of your growing capital base and your perspective of that as earnings in store. So, I guess, what's the framework for thinking about the opportunity cost of sitting on the growing base of capital and how high you might let that go versus your patience in waiting for more attractive deployment opportunities?",
+        "Page": 4,
+        "Person": "John McDonald",
+        "Role": "Analyst",
+        "Affiliation": "Truist Securities, Inc.",
+        "Topics": [
+            {
+                "Name": "Capital Management",
+                "Justification": "Focuses on the strategy for managing excess capital."
+            },
+            {
+                "Name": "Investment Strategy",
+                "Justification": "Inquires about the opportunity cost of holding capital."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "The question is factual and seeks information."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Yeah. Good question, John, and welcome back, by the way.",
+        "Page": 4,
+        "Person": "Jeremy Barnum",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "JPMorgan Chase",
+        "Topics": [
+            {
+                "Name": "Capital Management",
+                "Justification": "Acknowledges the strategy for managing excess capital."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Slightly Positive",
+            "Justification": "The response is welcoming and acknowledges the question."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Okay. Thanks, Jeremy. And then just as a follow-up, when we think about the investment spend agenda this year, how does it differ from, say, last year or last couple of years across lines of business in this kind of certainty of return spectrum you've talked about? And then what kind of efficiencies are baked into the outlook as well? Thanks.",
+        "Page": 5,
+        "Person": "John McDonald",
+        "Role": "Analyst",
+        "Affiliation": "Truist Securities, Inc.",
+        "Topics": [
+            {
+                "Name": "Investment Strategy",
+                "Justification": "Inquires about changes in investment spending."
+            },
+            {
+                "Name": "Operational Efficiency",
+                "Justification": "Seeks information on efficiencies in the outlook."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "The question is factual and seeks information."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Sure. The truth is \u2013 and I guess this is a good thing that the themes are remarkably consistent. So, we are seeing the results of our kind of high certainty investment choices across all the categories that you know very well and that we highlighted on the outlook page for expenses, and those continue to be the main areas of focus.",
+        "Page": 5,
+        "Person": "Jeremy Barnum",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "JPMorgan Chase",
+        "Topics": [
+            {
+                "Name": "Investment Strategy",
+                "Justification": "Discusses consistency in investment themes."
+            },
+            {
+                "Name": "Operational Efficiency",
+                "Justification": "Mentions focus on efficiency in operations."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "The response is positive about the consistency and focus on investment strategies."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Hi. Simple and then more difficult, I guess. Jamie, who's your successor? And then the second question is, I know I asked the question at Investor Day, why not stay as CEO a little bit longer?",
+        "Page": 6,
+        "Person": "Mike Mayo",
+        "Role": "Analyst",
+        "Affiliation": "Wells Fargo Securities LLC",
+        "Topics": [
+            {
+                "Name": "Leadership Succession",
+                "Justification": "Inquires about the CEO's successor."
+            },
+            {
+                "Name": "Executive Tenure",
+                "Justification": "Questions the CEO's decision on tenure."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "The question is factual and seeks information."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "I do love what I do. And answering the second question first, look, we're on a path. The path is not just about me, it's about the other senior people in the company. It's about the Board.",
+        "Page": 6,
+        "Person": "Jamie Dimon",
+        "Role": "Chairman & Chief Executive Officer",
+        "Affiliation": "JPMorgan Chase",
+        "Topics": [
+            {
+                "Name": "Leadership Succession",
+                "Justification": "Discusses the path for leadership transition."
+            },
+            {
+                "Name": "Executive Tenure",
+                "Justification": "Explains the CEO's perspective on tenure."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Slightly Positive",
+            "Justification": "The response is positive about the leadership path and company strategy."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Hey. Good morning. Maybe just on regulation, we have a new administration coming in. We have a new, soon-to-be, I guess, a new head of regulation at the Fed. So, maybe just talk about, again, what areas of the regulatory structure, if it were to change, would be most impactful for you.",
+        "Page": 7,
+        "Person": "Jim Mitchell",
+        "Role": "Analyst",
+        "Affiliation": "Seaport Global Securities LLC",
+        "Topics": [
+            {
+                "Name": "Regulatory Environment",
+                "Justification": "Inquires about potential regulatory changes."
+            },
+            {
+                "Name": "Impact on Business",
+                "Justification": "Seeks to understand the impact of regulation on the business."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "The question is factual and seeks information."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Hey, Jim. I mean, it's obviously something we're thinking about a lot. But I could go down some pretty deep rabbit holes speculating on all the different parts of the framework and how they could evolve, and I just don't really think that's productive right now.",
+        "Page": 7,
+        "Person": "Jeremy Barnum",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "JPMorgan Chase",
+        "Topics": [
+            {
+                "Name": "Regulatory Environment",
+                "Justification": "Acknowledges the complexity of regulatory changes."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Slightly Positive",
+            "Justification": "The response is cautious but acknowledges the importance of the topic."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Yes. Hi, good morning. Wanted to follow up on the questions on capital and maybe ask about some of, Jeremy, the crosscurrents in terms of the denominator.",
+        "Page": 8,
+        "Person": "Erika Najarian",
+        "Role": "Analyst",
+        "Affiliation": "UBS Securities LLC",
+        "Topics": [
+            {
+                "Name": "Capital Management",
+                "Justification": "Inquires about factors affecting capital management."
+            },
+            {
+                "Name": "Regulatory Environment",
+                "Justification": "Seeks to understand regulatory impacts on capital."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "The question is factual and seeks information."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Right, Erika. Okay. You are tempting me with many rabbit holes that are very deep. But let's try and address this not too much great length.",
+        "Page": 8,
+        "Person": "Jeremy Barnum",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "JPMorgan Chase",
+        "Topics": [
+            {
+                "Name": "Capital Management",
+                "Justification": "Acknowledges the complexity of capital management."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Slightly Positive",
+            "Justification": "The response is cautious but acknowledges the complexity of the topic."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Good morning. It seems like you guys have backed off the view that you're materially over-earning on net interest income. And is this all because of the higher rate environment that's expected now?",
+        "Page": 9,
+        "Person": "Matt O'Connor",
+        "Role": "Analyst",
+        "Affiliation": "Deutsche Bank Securities, Inc.",
+        "Topics": [
+            {
+                "Name": "Net Interest Income",
+                "Justification": "Inquires about changes in net interest income expectations."
+            },
+            {
+                "Name": "Interest Rates",
+                "Justification": "Seeks to understand the impact of interest rates on income."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "The question is factual and seeks information."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Yeah, it's a good question, Matt. I guess maybe let me try to frame this from a couple different perspectives.",
+        "Page": 9,
+        "Person": "Jeremy Barnum",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "JPMorgan Chase",
+        "Topics": [
+            {
+                "Name": "Net Interest Income",
+                "Justification": "Acknowledges the complexity of net interest income."
+            },
+            {
+                "Name": "Interest Rates",
+                "Justification": "Discusses the impact of interest rates on income."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Slightly Positive",
+            "Justification": "The response is cautious but acknowledges the complexity of the topic."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Hi. Good morning. Jeremy, you mentioned in your comments about the overall Firmwide deposits have stabilized in the second half. You could see some growth and you're very \u2013 I think you said you started to see maybe some of that in the consumer checking deposits.",
+        "Page": 13,
+        "Person": "Gerard Cassidy",
+        "Role": "Analyst",
+        "Affiliation": "RBC Capital Markets LLC",
+        "Topics": [
+            {
+                "Name": "Deposit Growth",
+                "Justification": "Inquires about the stabilization and growth of deposits."
+            },
+            {
+                "Name": "Consumer Banking",
+                "Justification": "Seeks to understand trends in consumer checking deposits."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "The question is factual and seeks information."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "That's fascinating, Gerard. I\u2019ll have to take a look at that data. I don't actually recognize those numbers. But I can speak for ourselves, which is that when we look at the encouraging growth that we see in our checking franchise, it's a couple of things.",
+        "Page": 13,
+        "Person": "Jeremy Barnum",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "JPMorgan Chase",
+        "Topics": [
+            {
+                "Name": "Deposit Growth",
+                "Justification": "Discusses the factors contributing to deposit growth."
+            },
+            {
+                "Name": "Consumer Banking",
+                "Justification": "Explains trends in consumer checking deposits."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "The response is positive about the growth in the checking franchise."
+        }
+    }
+]

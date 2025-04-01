@@ -23,6 +23,6 @@ venv/
 
 # MLflow artifacts and outputs
 mlruns/
-2_extracted_data/
-3_processed_json/
-4_rag_output/
+
+# Embeddings cache
+embedding_cache/

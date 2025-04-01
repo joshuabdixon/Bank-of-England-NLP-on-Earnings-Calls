@@ -1,62 +1,85 @@
-# Bank of England NLP Project (currently being transferred from Azure DevOps to Github)
+## Bank of England & University of Cambridge NLP Project
+**Harnessing Retrieval-Augmented Generation (RAG) for Financial Risk Analysis**
 
-This repository contains a set of Jupyter notebooks that process Q&A sections from PDF transcripts and perform Retrieval-Augmented Generation (RAG) on the extracted data.
-
----
-
-## Requirements
-
-Below is a list of Python packages and dependencies used throughout these notebooks. Install any missing dependencies using `pip install <package-name>` or via `conda install <package-name>` if using Anaconda. Adjust versions and additional libraries as needed.
-
-- **Python 3.7+**
-- **Jupyter Notebook** or **JupyterLab**
-- **pandas** (data manipulation and analysis)
-- **numpy** (numerical computing)
-- **PyPDF2** (PDF handling, reading/writing)
-- **pdfplumber** (alternative PDF extraction tool)
-- **openai** (OpenAI’s API for embeddings, chat completions)
-- **tiktoken** (token counting/encoding for OpenAI models)
-- **mlflow** (experiment tracking and logging)
-- **faiss** (vector similarity search for RAG)
-- **python-dotenv** (to load environment variables from .env files)
-- **requests** (HTTP requests, if needed for data fetching)
-- **dotenv** (part of python-dotenv for environment management)
-- **time**, **os**, **sys**, **json**, **csv**, **re**, **hashlib**, **typing**, **pathlib**, **pickle**, **datetime** (all standard library modules)
+This repository focuses on the **RAG** component of a collaborative AI project. It uses **2024 quarterly earnings call transcripts from JPMorgan Chase and Deutsche Bank** to demonstrate how NLP can help detect early warning signs of financial distress.
 
 ---
 
-## Notebooks
+### Project Overview
+- **Objective**: Utilise **RAG** to extract and summarise key risk indicators from banks’ earnings calls.  
+- **Approach**:  
+  - **Topic Modelling & Summaries** – Identify major themes in Q&A sessions.  
+  - **Retrieval-Augmented Generation** – Store embedded text in a FAISS index for rapid, context-aware answers.  
+  - **Use Case** – Enhances oversight by surfacing language clues indicative of financial health or instability.
+
+#### My Role
+- **Project & Strategic Leadership** – Aligned stakeholders’ goals (Bank of England & Cambridge) into a clear roadmap.  
+- **RAG Pipeline Development** – Built an end-to-end flow, from data extraction to embedding and querying.  
+- **Team Coordination** – Oversaw development milestones, code reviews, and timely prototype delivery.
+
+---
+
+### Repository Structure
+
+```
+1_data/
+├── [Raw quarterly earnings call PDFs]
+2_extracted_data/
+├── [Q&A segments extracted from PDFs]
+3_processed_json/
+├── [Processed JSON data post NLP pipeline]
+4_processed_json_correct_pages/
+├── [Corrected JSON metadata]
+```
+
+- **1_data/**: Place raw transcripts here. After running the notebooks in sequence, outputs appear in the subsequent folders automatically. This user-friendly workflow minimises manual effort.
+
+---
+
+### Repository Contents
 
 1. **pdf_QnA_section_extractor.ipynb**  
-   - **Purpose**: Extracts the Q&A portion from PDF transcripts.  
-   - **Output**: Saves the extracted Q&A sections as individual files in the `Extracted` folder.
-
+   - Extracts Q&A segments from each PDF in `1_data/`. Outputs to `2_extracted_data/`.
 2. **Q&A_pdf_to_json.ipynb**  
-   - **Purpose**: Takes the extracted Q&A files, applies a prompt-based approach (for example, summarization or question-answering), and converts the results into JSON.  
-   - **Output**: Stores the resulting JSON files in the `Processed` folder.
-
+   - Converts extracted text into structured JSON and saves to `3_processed_json/`.
 3. **JSON_page_number_update_folder_based.ipynb**  
-   - **Purpose**: Reads the processed JSON files, checks for the correct page numbers (using the Q&A start page), and updates each JSON file with accurate page references.
-
+   - Corrects page references in JSON, finalising data in `4_processed_json_correct_pages/`.
 4. **rag_stable_output.ipynb**  
-   - **Purpose**: Performs the final Retrieval-Augmented Generation step. It picks up the updated JSON files, runs queries against them, and demonstrates table-like outputs for the results.
+   - Demonstrates the RAG pipeline, using FAISS to deliver context-rich answers from the final JSON data.
 
 ---
 
-## Workflow Summary
+### Setup & Installation
+1. **Python 3.7+ Environment**  
+2. The full list of required packages is maintained in the **requirements.txt** file.
+3. **Install**:  
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **API Keys**:  
+   - Store any required keys (e.g. OpenAI, as shown in code) in a `.env` file. See `env.template` for guidance.
 
-1. **Extract Q&A**  
-   Run `pdf_QnA_section_extractor.ipynb` to split transcripts and collect Q&A segments.
+---
 
-2. **Convert to JSON**  
-   Use `Q&A_pdf_to_json.ipynb` to process extracted Q&A files and output them in JSON format.
+### Usage
+1. **Data Extraction**  
+   - Run `pdf_QnA_section_extractor.ipynb` to scan PDF transcripts in `1_data/` and generate Q&A text.  
+2. **JSON Conversion**  
+   - Use `Q&A_pdf_to_json.ipynb` to produce structured JSON in `3_processed_json/`.  
+3. **Page Number Updates**  
+   - Execute `JSON_page_number_update_folder_based.ipynb` to correct references in `4_processed_json_correct_pages/`.  
+4. **RAG Pipeline**  
+   - Open `rag_stable_output.ipynb` for an end-to-end demonstration of FAISS-based retrieval and summarisation.
 
-3. **Update Page Numbers**  
-   Execute `JSON_page_number_update_folder_based.ipynb` to ensure each Q&A section has the correct page numbers.
+---
 
-4. **Run RAG**  
-   Finally, run `rag_stable_output.ipynb` to conduct retrieval-augmented queries, demonstrating how to effectively query the Q&A data.
+### Known Issues & Future Improvements
+- **Parsing Errors**: Occasional JSON parsing issues; planning to enhance robustness.  
+- **API Responses**: Improved handling of model outputs to reduce manual post-processing.  
+- **Predictive Analytics**: Potential for linking sentiment/topic trends to future financial outcomes.  
+- **Scalability**: Further integration into regulatory pipelines and expansion to additional institutions.
 
-## Known Issues / Future Work
-- Some outputs need better formatting to ensure JSON is valid for all use cases.
-- **TODO**: Improve API response handling to ensure structured data without post-processing.
+---
+
+### Acknowledgements
+Many thanks to the Bank of England and the University of Cambridge for their guidance and collaboration. This RAG-focused work aims to streamline regulatory oversight, offering timely, data-driven insights into financial health. Special thanks to my teammates for their invaluable contributions to building this innovative NLP solution.

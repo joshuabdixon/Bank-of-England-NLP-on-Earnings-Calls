@@ -1,0 +1,144 @@
+[
+    {
+        "Type": "Question",
+        "Text": "The first is on loan losses. When you talk about 2025 and towards a more normalized level, is that closer to 30 basis points? And then what should give us the confidence that the loan losses can come down in Q4 and 2025? You show us slide 13. Should the Postbank integration and the large corporate events almost drop out, or drop out in 2025? And when you gave us 2024 guidance, and we've been looking, sorry to say, but at two quarters of upward revision, what did you underestimate when you previously guided for 2024?",
+        "Page": 17,
+        "Person": "Anke Reingen",
+        "Role": "Analyst",
+        "Affiliation": "RBC",
+        "Topics": [
+            {
+                "Name": "Loan Loss Provisions",
+                "Justification": "Focuses on expected changes in loan loss provisions."
+            },
+            {
+                "Name": "Financial Guidance",
+                "Justification": "Questions the accuracy of previous financial guidance."
+            },
+            {
+                "Name": "Postbank Integration",
+                "Justification": "Inquires about the impact of Postbank integration on financials."
+            }
+        ],
+        "Sentiment": {
+            "Score": -0.1,
+            "Category": "Slightly Negative",
+            "Justification": "Expresses concern over upward revisions and seeks clarification."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "And then, second, on the buybacks. Yes, great to hear you applied for approval, but can you be more specific on the amount? Should we use slide 24, where you talk about the 50% increase year over year as a potential indicator of your request at this time? And what does it mean for potential additional buybacks in calendar year 2025? When do you think you can make a decision? And is that a function of the loan loss charge guidance as well?",
+        "Page": 17,
+        "Person": "Anke Reingen",
+        "Role": "Analyst",
+        "Affiliation": "RBC",
+        "Topics": [
+            {
+                "Name": "Share Buybacks",
+                "Justification": "Seeks details on the share buyback strategy."
+            },
+            {
+                "Name": "Financial Strategy",
+                "Justification": "Inquires about strategic financial decisions."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks factual information without expressing a positive or negative sentiment."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "So on the NII, could we come back, please, to the drop we saw this quarter in the Corporate Bank? It's led the banking book NII to be just \u20ac3.2 billion this quarter. And I think the full year guidance, you have implied it will be again about that level in Q4. When I look at slide 32, and it's useful, thank you very much for putting in that slide, I see you've locked a significant part of the hedge income already for the next two years. So that's very reassuring. I also see that you've used a ten-year swap that would be 2.3% to 2.5%. And that makes sense based on today's curve. But the risk here is rather to the downside. So the question here is also, the light blue column, the contribution from the rollover of the hedges, if the ten-year swap would go towards, say, 2% or 2.2%, would we still see the rollover contribute positively in the next two years on top of what you've locked already?",
+        "Page": 21,
+        "Person": "Flora Bocahut",
+        "Role": "Analyst",
+        "Affiliation": "Barclays",
+        "Topics": [
+            {
+                "Name": "Net Interest Income",
+                "Justification": "Focuses on the NII performance and future expectations."
+            },
+            {
+                "Name": "Hedging Strategy",
+                "Justification": "Inquires about the impact of hedging on financial outcomes."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Neutral",
+            "Justification": "Seeks clarification on financial projections without expressing a strong sentiment."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "And then the second question is on cost. I think you were saying before, James, that to make your guidance for 2025 cost, you would need to get adjusted cost quarterly run rate down towards \u20ac4.9 billion. Now, obviously, you\u2019ve just had three quarters in a row where you've met the guidance for this year at \u20ac5.0 billion. So maybe could you talk a little bit into the capacity for you to get there already in Q4, and what gives you the confidence that you can get towards the \u20ac4.9 billion quarterly run rate for adjusted cost next year?",
+        "Page": 21,
+        "Person": "Flora Bocahut",
+        "Role": "Analyst",
+        "Affiliation": "Barclays",
+        "Topics": [
+            {
+                "Name": "Cost Management",
+                "Justification": "Inquires about strategies to reduce costs."
+            },
+            {
+                "Name": "Financial Guidance",
+                "Justification": "Seeks understanding of cost guidance for future quarters."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Requests information on cost strategies without expressing sentiment."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Firstly, on the US CRE, I just wanted to check something that I think you implied. But on slide 37, you've shown the quarterly CLPs have now stepped back down to \u20ac68 million. I think you're implying that that's the new run rate, we stay around that level going forward. And I guess it's a positive really that your modified loans are now \u20ac13 billion out of the \u20ac15 billion. So it implies you've worked your way through pretty much the whole portfolio. And I guess that supports that outlook. So first question is really just, are we now expecting to go forward at that \u20ac68-million-ish run rate?",
+        "Page": 32,
+        "Person": "Jeremy Sigee",
+        "Role": "Analyst",
+        "Affiliation": "BNP Paribas Exane",
+        "Topics": [
+            {
+                "Name": "Commercial Real Estate",
+                "Justification": "Focuses on the performance and expectations for CRE."
+            },
+            {
+                "Name": "Loan Portfolio",
+                "Justification": "Inquires about the status of the loan portfolio."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Acknowledges positive developments in loan portfolio management."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "And then the second question, I just wanted to press you a bit more on the M&A topic. You were commenting this morning on the newswires, James, about Deutsche Bank positioned to play a leading role in European consolidation. The industrial logic makes sense, but you're just not ready right now. And I just wondered how you view the scenario of someone like Commerzbank tying up with a different bank and effectively becoming unavailable. What remaining optionality would you have? Where else would you see opportunities for consolidation and for Deutsche Bank to play a leading role?",
+        "Page": 32,
+        "Person": "Jeremy Sigee",
+        "Role": "Analyst",
+        "Affiliation": "BNP Paribas Exane",
+        "Topics": [
+            {
+                "Name": "Mergers and Acquisitions",
+                "Justification": "Explores potential M&A opportunities and strategies."
+            },
+            {
+                "Name": "European Banking Sector",
+                "Justification": "Discusses the role of Deutsche Bank in European consolidation."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks strategic insights without expressing sentiment."
+        }
+    }
+]

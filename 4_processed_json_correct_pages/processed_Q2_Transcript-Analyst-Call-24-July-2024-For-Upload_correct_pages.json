@@ -1,0 +1,1091 @@
+[
+    {
+        "Type": "Question",
+        "Text": "So, the first question is on revenues. I guess, on a headline basis, the momentum is positive, but the mix is changing a little bit. More on NII, perhaps a little bit less on fees outside of the Investment Bank. So, if we look through for the \u20ac30 billion for this year and \u20ac32 billion, let's say, for next year, are you confident on those two numbers? And in particular, how would you see fees progressing, both inside and outside of the IB?",
+        "Page": 15,
+        "Person": "Chris Hallam",
+        "Role": "Analyst",
+        "Affiliation": "Goldman Sachs",
+        "Topics": [
+            {
+                "Name": "Revenue Forecast",
+                "Justification": "Inquires about confidence in revenue targets."
+            },
+            {
+                "Name": "Fee Structure",
+                "Justification": "Questions the progression of fees in different sectors."
+            },
+            {
+                "Name": "Investment Banking",
+                "Justification": "Focuses on fee progression within the Investment Bank."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Factual inquiry about financial projections."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "And then second, could you give us an update on where your discussions have got to with the ECB, regarding any additional capital requirements relating to your Leveraged Finance business and how you see the outlook for your Leveraged Finance franchise over the coming couple of years?",
+        "Page": 15,
+        "Person": "Chris Hallam",
+        "Role": "Analyst",
+        "Affiliation": "Goldman Sachs",
+        "Topics": [
+            {
+                "Name": "Regulatory Compliance",
+                "Justification": "Inquires about discussions with the ECB."
+            },
+            {
+                "Name": "Leveraged Finance",
+                "Justification": "Focuses on capital requirements for Leveraged Finance."
+            },
+            {
+                "Name": "Capital Requirements",
+                "Justification": "Questions additional capital needs."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks information on regulatory discussions."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Thank you, Chris. It\u2019s Christian. Thank you very much for your questions. Let me start, and as usual, James may want to chip in. On your first question on revenues and on your key question, both numbers for 2024 and 2025, the answer is a clear yes. And let me start with 2024. You have seen the H1 numbers. To be honest, I'm really happy with that, with the \u20ac15.4 billion, because all businesses have actually delivered.",
+        "Page": 16,
+        "Person": "Christian Sewing",
+        "Role": "Chief Executive Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Revenue Forecast",
+                "Justification": "Confirms confidence in meeting revenue targets."
+            },
+            {
+                "Name": "Business Performance",
+                "Justification": "Highlights successful delivery across businesses."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.3,
+            "Category": "Slightly Positive",
+            "Justification": "Expresses satisfaction with current performance."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "And the nice thing is, if I now go over the next quarters, and let me start with the more predictable divisions, i.e., the Corporate Bank, the Private Bank, Asset Management, you can actually see that the momentum and the numbers we have seen in the first two quarters are very good guidance for Q3 and Q4.",
+        "Page": 16,
+        "Person": "Christian Sewing",
+        "Role": "Chief Executive Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Revenue Forecast",
+                "Justification": "Provides guidance for upcoming quarters."
+            },
+            {
+                "Name": "Business Segments",
+                "Justification": "Discusses performance in specific divisions."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Optimistic outlook for future quarters."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "On the Corporate Bank, I think a number, which is around \u20ac1.9 billion, given all that I can see from the mandates we win, is something we can also plan for Q3 and Q4, and I would really say that those three divisions are really having good momentum.",
+        "Page": 16,
+        "Person": "Christian Sewing",
+        "Role": "Chief Executive Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Corporate Banking",
+                "Justification": "Discusses expected performance in Corporate Bank."
+            },
+            {
+                "Name": "Revenue Forecast",
+                "Justification": "Provides revenue expectations for upcoming quarters."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Expresses confidence in division's performance."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "On the Investment Bank side, I absolutely believe that overall, I think the trajectory we have seen over the last year, in terms of market share wins, in terms of stability of revenues, in terms of also predictability of revenues. If you think about the Financing business we have, also show me that the second half will be a very satisfactory one.",
+        "Page": 17,
+        "Person": "Christian Sewing",
+        "Role": "Chief Executive Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Investment Banking",
+                "Justification": "Discusses performance and expectations in Investment Bank."
+            },
+            {
+                "Name": "Market Share",
+                "Justification": "Mentions gains in market share."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.3,
+            "Category": "Slightly Positive",
+            "Justification": "Confident in continued success and stability."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "To the second question on the ECB. To be honest, I have seen that portfolio, the leverage lending portfolio, now for the last 15 years, and to be honest, it always behaved very well, because I think our risk appetite, the way we have managed our risk, has demonstrated that we are in very good control of that business.",
+        "Page": 19,
+        "Person": "Christian Sewing",
+        "Role": "Chief Executive Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Risk Management",
+                "Justification": "Discusses control and management of leveraged lending."
+            },
+            {
+                "Name": "Regulatory Compliance",
+                "Justification": "Addresses discussions with ECB."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Expresses confidence in risk management practices."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Good morning. Thanks for taking my questions. I have two, one on distribution and one on litigation. On distribution, I was wondering if we could have an update on what your total distribution target is. Because you committed to distribute above \u20ac8 billion of capital, but could we have a bit more clarity by how much you expect to exceed this \u20ac8 billion mark? And also, timing wise, what should we expect, notably for the share buyback? Is a top up completely excluded for H2? And what about the pace in 2025?",
+        "Page": 19,
+        "Person": "Nicolas Payen",
+        "Role": "Analyst",
+        "Affiliation": "Kepler Cheuvreux",
+        "Topics": [
+            {
+                "Name": "Capital Distribution",
+                "Justification": "Inquires about distribution targets and expectations."
+            },
+            {
+                "Name": "Share Buyback",
+                "Justification": "Seeks clarity on share buyback plans."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks factual information on financial plans."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "And regarding litigation, what should we expect, regarding litigation provision in H2? Because more globally, you have now reduced, quite significantly, your contingent liability. So, I was wondering, should we expect a lower litigation cost run rate for the future years?",
+        "Page": 19,
+        "Person": "Nicolas Payen",
+        "Role": "Analyst",
+        "Affiliation": "Kepler Cheuvreux",
+        "Topics": [
+            {
+                "Name": "Litigation",
+                "Justification": "Inquires about future litigation provisions and costs."
+            },
+            {
+                "Name": "Financial Forecast",
+                "Justification": "Seeks expectations for future financial impacts."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Requests information on expected litigation costs."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Thank you very much. Let me start, Nicolas, and then James will, I think, comment on both questions. On the distribution, because that is really important for me, there is no change in guidance. We will distribute more than \u20ac8 billion in the timeframe from 2021 to 2025. Nothing has changed.",
+        "Page": 20,
+        "Person": "Christian Sewing",
+        "Role": "Chief Executive Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Capital Distribution",
+                "Justification": "Confirms commitment to distribution targets."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Neutral",
+            "Justification": "Reiterates existing guidance without new information."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Obviously, from a timing point of view, as we said, end of April, with the item on the Postbank provision of \u20ac1.3 billion, which we had to digest, we always said that we now need to have two quarters, actually, where we show operating strength, where we restore capital. And to be honest, I am really happy with what has been done in this bank.",
+        "Page": 20,
+        "Person": "Christian Sewing",
+        "Role": "Chief Executive Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Capital Management",
+                "Justification": "Discusses capital restoration efforts."
+            },
+            {
+                "Name": "Litigation",
+                "Justification": "Mentions impact of Postbank provision."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Expresses satisfaction with capital management efforts."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Thanks, Christian. Nicolas, thanks for the question. I will just echo Christian's comments. We've returned almost \u20ac1.6 billion already this year through the capital actions that we took in the second quarter. We were, I think, very successful, offsetting the impact of the Postbank provision, and our step-off into the second half of 13.5% on the CET1 ratio is a good starting place.",
+        "Page": 20,
+        "Person": "James von Moltke",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Capital Management",
+                "Justification": "Discusses capital actions and CET1 ratio."
+            },
+            {
+                "Name": "Litigation",
+                "Justification": "Mentions offsetting impact of Postbank provision."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Positive outlook on capital management progress."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "If I refer you to slide 22 of our investor deck, we've tried to be as clear as possible on what we've referred to as baseline expectations. And so, if you look at that on the dividend, we have paid out this year \u20ac883 million, the \u20ac67.5 cents next year would be about \u20ac1.3 billion. The \u20ac1 dividend that we intend to pay out in 2026, in respect of 2025, would be another nearly \u20ac2 billion.",
+        "Page": 21,
+        "Person": "James von Moltke",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Dividend Policy",
+                "Justification": "Details on dividend payouts and expectations."
+            },
+            {
+                "Name": "Capital Distribution",
+                "Justification": "Discusses distribution targets and plans."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Neutral",
+            "Justification": "Provides factual information on dividend plans."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Thank you very much for taking my questions. The first is on the loan loss guidance for 2024. If you can maybe give us a bit more on what gives you confidence of the decline to more like 25-30 basis points in the second half, and what you've assumed on commercial real estate within that number? And you have sort of said that in 2025, you expect loan losses to normalise. Would that be the 25-30 basis points, or the 20 basis points you mentioned in the past?",
+        "Page": 22,
+        "Person": "Anke Reingen",
+        "Role": "Analyst",
+        "Affiliation": "RBC",
+        "Topics": [
+            {
+                "Name": "Loan Loss Provisions",
+                "Justification": "Inquires about guidance and assumptions for loan losses."
+            },
+            {
+                "Name": "Commercial Real Estate",
+                "Justification": "Seeks details on assumptions for commercial real estate."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Requests clarification on financial guidance."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "And then just on Capital, I just wondered if you can give us some more clarity on the expectation with the benefit from the delay of the FRTB, and what it could mean for the \u20ac15 billion you previously guided to? And would you consider this, in your distribution, as an actual benefit?",
+        "Page": 22,
+        "Person": "Anke Reingen",
+        "Role": "Analyst",
+        "Affiliation": "RBC",
+        "Topics": [
+            {
+                "Name": "Capital Management",
+                "Justification": "Inquires about impact of FRTB delay on capital."
+            },
+            {
+                "Name": "Regulatory Compliance",
+                "Justification": "Seeks clarity on regulatory impacts on capital."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks information on regulatory impacts on capital."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Thank you, Anke. I'm happy to take all three, and Christian may want to add. The CLP guidance change, I would think of it as more related to what has already happened in the year, in the first half, than about our outlook for the second half. We\u2019ve had a number of events, really, two corporate defaults, and then an overlay that we booked in Q2 that have taken us slightly north of what we'd anticipated, when we spoke to you three months ago.",
+        "Page": 22,
+        "Person": "James von Moltke",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Loan Loss Provisions",
+                "Justification": "Explains changes in loan loss provision guidance."
+            },
+            {
+                "Name": "Corporate Defaults",
+                "Justification": "Mentions impact of corporate defaults on provisions."
+            }
+        ],
+        "Sentiment": {
+            "Score": -0.1,
+            "Category": "Slightly Negative",
+            "Justification": "Acknowledges challenges with corporate defaults."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "On FRTB, obviously, good news for the industry in Europe, because I think it would have put us at a competitive disadvantage if the US were not to go forward, and Europe to go forward. So, we think it's a sensible change.",
+        "Page": 23,
+        "Person": "James von Moltke",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Regulatory Compliance",
+                "Justification": "Discusses impact of FRTB delay on industry."
+            },
+            {
+                "Name": "Capital Management",
+                "Justification": "Considers regulatory changes in capital planning."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Views regulatory delay as beneficial for competitive positioning."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Thanks for taking my two questions. I wanted to come back briefly on cost. In your remarks, Christian, you talked about the \u20ac4.9 billion run rate, potentially at the end of the year. And I just wanted to see how you think about the flexibility that that offers next year, to get to your cost income guidance. If you can talk maybe around is there flexibility to run below \u20ac20 billion, in that sense, considering you are indicating a lower number for the end of the year, even if it's adjusted versus stated? And how that thinking is around, and confidence is around the cost income guidance.",
+        "Page": 24,
+        "Person": "Kian Abouhossein",
+        "Role": "Analyst",
+        "Affiliation": "JP Morgan",
+        "Topics": [
+            {
+                "Name": "Cost Management",
+                "Justification": "Inquires about flexibility in cost management."
+            },
+            {
+                "Name": "Financial Forecast",
+                "Justification": "Seeks clarity on cost-income guidance."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Requests information on cost management strategy."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "The second question is related to provisions again. I wanted to just dig a little bit deeper after Anke\u2019s question and the detailed answer, in respect to CRE. Clearly, the assumptions are that CRE will stabilise, it sounded like that, in 2025. And I wanted to just get a better understanding of what assumptions you're making. If you can talk a little bit about the input assumptions, price performance, and CRE US default rates that you are assuming on a macro level in CRE, so we get a better understanding.",
+        "Page": 24,
+        "Person": "Kian Abouhossein",
+        "Role": "Analyst",
+        "Affiliation": "JP Morgan",
+        "Topics": [
+            {
+                "Name": "Commercial Real Estate",
+                "Justification": "Seeks detailed assumptions on CRE stabilization."
+            },
+            {
+                "Name": "Financial Forecast",
+                "Justification": "Inquires about macro-level assumptions for CRE."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks detailed information on CRE assumptions."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Let me start with the cost answer. First of all, I think it is most important that we stick to our target, and that we show you that we deliver on that, like I think we have demonstrated from Q4 2023, when we started with the \u20ac5.3 billion of quarterly costs, that we come down to a \u20ac5.0 billion, which we have done.",
+        "Page": 25,
+        "Person": "Christian Sewing",
+        "Role": "Chief Executive Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Cost Management",
+                "Justification": "Emphasizes commitment to cost targets."
+            },
+            {
+                "Name": "Financial Performance",
+                "Justification": "Highlights past success in cost reduction."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Expresses confidence in achieving cost targets."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Now, looking ahead at what is in the pipeline of additional cost measures to be executed over the next quarters, in terms of achieving the \u20ac2.5 billion of overall cost cuts? I'm very confident that we will come to the \u20ac4.9 billion of quarterly costs at the end of Q4, starting with Q1. So, this is, for us, where we are focusing.",
+        "Page": 25,
+        "Person": "Christian Sewing",
+        "Role": "Chief Executive Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Cost Management",
+                "Justification": "Discusses future cost reduction measures."
+            },
+            {
+                "Name": "Financial Forecast",
+                "Justification": "Projects future cost targets and focus areas."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Confident in future cost management plans."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Kian, turning to your question on provisions and the impact of CRE. Maybe I can draw your attention to slide 34 in the investor deck. Now, this is where I had guided that the next in the series would be down in Q2. And so, as always, predictions about the future are a slightly uncertain science, but we\u2019ve travelled, more or less, at the level we had in Q4 and Q1.",
+        "Page": 26,
+        "Person": "James von Moltke",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Commercial Real Estate",
+                "Justification": "Discusses guidance and expectations for CRE provisions."
+            },
+            {
+                "Name": "Financial Forecast",
+                "Justification": "Mentions uncertainty in future predictions."
+            }
+        ],
+        "Sentiment": {
+            "Score": -0.1,
+            "Category": "Slightly Negative",
+            "Justification": "Acknowledges uncertainty in future predictions."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Hi, thanks for taking my questions. Can you tell us how you see the deposit mix and loan trends developing in the second half of the year across the Corporate Bank and the Private Bank? And how much some of the recent political uncertainty may be impacting this?",
+        "Page": 27,
+        "Person": "Tom Hallett",
+        "Role": "Analyst",
+        "Affiliation": "KBW",
+        "Topics": [
+            {
+                "Name": "Deposit Trends",
+                "Justification": "Inquires about deposit mix and trends."
+            },
+            {
+                "Name": "Loan Trends",
+                "Justification": "Seeks information on loan trends in Corporate and Private Bank."
+            },
+            {
+                "Name": "Political Uncertainty",
+                "Justification": "Questions impact of political uncertainty on financial trends."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Requests information on financial trends and external impacts."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "And then secondly, on SRTs, which is obviously becoming quite a popular tool for banks these days. Could you just give us some colour on the potential CET1 benefits over the next year? And then maybe quantify, or help us understand, the size of the overall opportunity here, which, as an outsider, I'm thinking about it in terms of the size or the scope of assets that are generally earning below the regulatory cost of capital.",
+        "Page": 27,
+        "Person": "Tom Hallett",
+        "Role": "Analyst",
+        "Affiliation": "KBW",
+        "Topics": [
+            {
+                "Name": "SRTs",
+                "Justification": "Inquires about the use and benefits of SRTs."
+            },
+            {
+                "Name": "Capital Management",
+                "Justification": "Seeks understanding of CET1 benefits from SRTs."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks information on financial tools and benefits."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Thanks, Tom. Two interesting questions. Loan growth has been more sluggish in coming than we'd expected, as you've heard on our calls for the past, say, year or so. That said, we did have loan growth in the second quarter, so the first encouraging sign, we have \u20ac2 billion of loan growth this quarter. And we think that the indicators of increasing activity are there.",
+        "Page": 28,
+        "Person": "James von Moltke",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Loan Trends",
+                "Justification": "Discusses recent loan growth and future indicators."
+            },
+            {
+                "Name": "Financial Performance",
+                "Justification": "Mentions past performance and future expectations."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Neutral",
+            "Justification": "Acknowledges past challenges but notes positive signs."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "If I look at SRT, for us, some of our risk transfer programs are 20 years old, so we\u2019ve been at this for a while. We have good, structured programs. We have a great level of engagement with the investors in our structures that have been with us for a long time. And we\u2019re constantly on the lookout for portfolios where we think they can be more efficiently held off the bank\u2019s balance sheet than on our balance sheet.",
+        "Page": 28,
+        "Person": "James von Moltke",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "SRTs",
+                "Justification": "Discusses long-term use and benefits of SRTs."
+            },
+            {
+                "Name": "Capital Management",
+                "Justification": "Explains strategy for efficient capital management."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Expresses confidence in long-term strategy and engagement."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Good morning. My first question is on the Private Bank. Could you please give us a bit more detail, a bit more colour, on how quickly the fee line can grow, and what initiatives you have underway to really control this and drive this in the next quarters, and in 2025, in particular? So, that would be my first question.",
+        "Page": 29,
+        "Person": "Giulia Aurora Miotto",
+        "Role": "Analyst",
+        "Affiliation": "Morgan Stanley",
+        "Topics": [
+            {
+                "Name": "Private Banking",
+                "Justification": "Seeks details on fee growth and initiatives in Private Bank."
+            },
+            {
+                "Name": "Financial Forecast",
+                "Justification": "Inquires about future growth and initiatives."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Requests information on future growth strategies."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "And then secondly, you talked about loan growth dynamics. What about asset margins? How are those evolving in your main lending products, please?",
+        "Page": 29,
+        "Person": "Giulia Aurora Miotto",
+        "Role": "Analyst",
+        "Affiliation": "Morgan Stanley",
+        "Topics": [
+            {
+                "Name": "Asset Margins",
+                "Justification": "Inquires about evolution of asset margins in lending products."
+            },
+            {
+                "Name": "Loan Trends",
+                "Justification": "Seeks information on loan growth dynamics."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Requests information on financial performance metrics."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Let me take the first question, Giulia, on the Private Bank. Actually, it is, first of all, a continuous improvement on the fee business growth in the Private Bank, in particular, when I look to the future, quarter over quarter. Why? Because we have a constant inflow in our assets under management, by the way, domestically, as well as internationally.",
+        "Page": 30,
+        "Person": "Christian Sewing",
+        "Role": "Chief Executive Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Private Banking",
+                "Justification": "Discusses continuous fee growth in Private Bank."
+            },
+            {
+                "Name": "Asset Management",
+                "Justification": "Mentions inflow in assets under management."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Expresses optimism about future fee growth."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "And by the way, also, and this is very nice, not only in the Private Bank and Wealth Management businesses, but also, in the Personal Banking business in Germany. Secondly, I think, for the Private Bank, if we think about the overall profitability, there is a huge focus now on turning around the personal banking business in the Private Bank in Germany.",
+        "Page": 30,
+        "Person": "Christian Sewing",
+        "Role": "Chief Executive Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Private Banking",
+                "Justification": "Focuses on profitability and turnaround in Private Bank."
+            },
+            {
+                "Name": "Personal Banking",
+                "Justification": "Mentions focus on personal banking business in Germany."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Optimistic about future profitability improvements."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "So, maybe I could add, and this is also a little bit in answer to Chris\u2019 question earlier, which was about fee and commission engines outside the Investment Bank. Obviously, just in the Investment Bank, a big part of the story this year and next year is advisory and underwriting fees, where we think the momentum, the wallet growth, is there, and there's an opportunity that we're executing on to increase our market share.",
+        "Page": 30,
+        "Person": "James von Moltke",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Investment Banking",
+                "Justification": "Discusses fee and commission growth in Investment Bank."
+            },
+            {
+                "Name": "Market Share",
+                "Justification": "Mentions opportunity to increase market share."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Positive outlook on fee growth and market share."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Good afternoon, and thank you for the presentation. I have three questions, please. First of all, on RWA reduction. I think you have achieved now \u20ac19 billion in total RWA reduction, as a result of the optimisation program. Could you give us a sense of the timing of the remaining reductions to get to your \u20ac25-30 billion target? Is that largely coming through in the second half of this year, or some of that should be in 2025?",
+        "Page": 31,
+        "Person": "Mate Nemes",
+        "Role": "Analyst",
+        "Affiliation": "UBS",
+        "Topics": [
+            {
+                "Name": "RWA Reduction",
+                "Justification": "Inquires about timing and progress of RWA reduction."
+            },
+            {
+                "Name": "Financial Forecast",
+                "Justification": "Seeks clarity on future financial targets."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Requests information on financial progress and targets."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Then the second question is on share buybacks. Just referring to slide 22, and the 50% per annum growth in share buybacks. I think the original expectation, certainly by the market, was a higher total amount of buyback in 2024, on which the increase into next year would have been obviously quite substantial. My question is, are we looking at a 50% increase versus the \u20ac675 million for the buyback next year? Or should we think of a potentially larger increase, due to the scrapped second tranche of the buyback in 2024?",
+        "Page": 31,
+        "Person": "Mate Nemes",
+        "Role": "Analyst",
+        "Affiliation": "UBS",
+        "Topics": [
+            {
+                "Name": "Share Buyback",
+                "Justification": "Inquires about future share buyback plans and expectations."
+            },
+            {
+                "Name": "Capital Management",
+                "Justification": "Seeks clarity on capital distribution strategies."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Requests information on future financial strategies."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Thank you, Mate, for the questions. First of all, we're very pleased with the progress there, and credit to the teams that have been working so hard to drive this optimisation. Broadly speaking, as I mentioned in the prepared remarks, I would hope that we could achieve another \u20ac2 billion in Q3. And there, I think we've got good line of sight to that, maybe a little bit more.",
+        "Page": 32,
+        "Person": "James von Moltke",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "RWA Reduction",
+                "Justification": "Discusses progress and expectations for RWA reduction."
+            },
+            {
+                "Name": "Financial Performance",
+                "Justification": "Acknowledges team efforts in achieving financial goals."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Expresses satisfaction with progress and future outlook."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "On the buyback, what was taken out in 2024, I think the consensus number was that the second buyback authorisation could be something in the order of \u20ac400 million to \u20ac500 million this year. And that was actually a fair assumption, and absent the litigation provision, I think we would have been in a good position to seek that.",
+        "Page": 32,
+        "Person": "James von Moltke",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Share Buyback",
+                "Justification": "Explains impact of litigation provision on buyback plans."
+            },
+            {
+                "Name": "Capital Management",
+                "Justification": "Discusses financial strategies and assumptions."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Neutral",
+            "Justification": "Provides factual information on financial strategies."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Good afternoon. Thank you very much for taking my questions. I have just two left, please. Starting with the Private Bank, you mentioned an NPL sale. Can you tell us roughly how big this was, in notional terms, and whether there was actually a P&L profit or loss on the back of the sale?",
+        "Page": 34,
+        "Person": "Stefan Stalmann",
+        "Role": "Analyst",
+        "Affiliation": "Autonomous",
+        "Topics": [
+            {
+                "Name": "NPL Sale",
+                "Justification": "Inquires about details of a non-performing loan sale."
+            },
+            {
+                "Name": "Private Banking",
+                "Justification": "Seeks information on financial impact in Private Bank."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Requests factual information on financial transaction."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "And the second question relates to the valuation and timing differences in your corporate centre, which have been mostly positive in recent quarters. Can we think of this as a balance, which is still negative, and you're still working yourself out of this back to neutral? Or is it actually now a positive overall balance, and there's a risk that eventually, that normalises down to neutral with negative effects in coming quarters?",
+        "Page": 34,
+        "Person": "Stefan Stalmann",
+        "Role": "Analyst",
+        "Affiliation": "Autonomous",
+        "Topics": [
+            {
+                "Name": "Valuation Differences",
+                "Justification": "Inquires about valuation and timing differences in corporate centre."
+            },
+            {
+                "Name": "Financial Forecast",
+                "Justification": "Seeks understanding of future financial impacts."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Requests information on financial metrics and future impacts."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Thanks for the question, Stefan. Briefly, I don't know the notional of the NPL sale, but in round numbers, think of us as having a CLP benefit of about \u20ac25 million in the quarter on the sale, which was offset by continued drag from the operational disruptions of about the same amount.",
+        "Page": 34,
+        "Person": "James von Moltke",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "NPL Sale",
+                "Justification": "Provides details on financial impact of NPL sale."
+            },
+            {
+                "Name": "Operational Disruptions",
+                "Justification": "Mentions offsetting impact of operational disruptions."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Provides factual information on financial impacts."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "On the valuation timing differences, I'd really call out two elements. The first is pull-to-par in the investment portfolio, and that has a short-term and a more medium-term element. In the short term, some of the pull-to-par in Q2 was actually Q1 losses, given the market movements. And we expect some more of that to bleed into earnings in the second half of the year.",
+        "Page": 34,
+        "Person": "James von Moltke",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Valuation Differences",
+                "Justification": "Explains elements affecting valuation timing differences."
+            },
+            {
+                "Name": "Financial Forecast",
+                "Justification": "Discusses expected impacts on future earnings."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Provides factual explanation of financial elements."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Hi, it's a follow-up question on the leveraged loan, potential ECB supervisory expectations deductions, compared to your risk weighted add-on, or Pillar 2 add-on. Do you see the supervisory expectations on provisioning as being incremental to the existing Pillar 2 add-on that you have? Or do you see it as potentially netting against the effective burden you've already got on your requirements?",
+        "Page": 35,
+        "Person": "Matthew Clark",
+        "Role": "Analyst",
+        "Affiliation": "Mediobanca",
+        "Topics": [
+            {
+                "Name": "Leveraged Loans",
+                "Justification": "Inquires about ECB supervisory expectations on leveraged loans."
+            },
+            {
+                "Name": "Regulatory Compliance",
+                "Justification": "Seeks understanding of regulatory impacts on provisioning."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Requests information on regulatory impacts and expectations."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Matthew, it's always hard to speculate about items, which are, at the end of the day, in the hands of the regulators. Again, I really would like to say that we find it positive that the ECB is taking our arguments. It is reviewing its process. I told you that we were already subject to a capital add-on.",
+        "Page": 35,
+        "Person": "Christian Sewing",
+        "Role": "Chief Executive Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Regulatory Compliance",
+                "Justification": "Discusses ECB review process and capital add-on."
+            },
+            {
+                "Name": "Leveraged Loans",
+                "Justification": "Mentions regulatory discussions on leveraged loans."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Neutral",
+            "Justification": "Acknowledges regulatory process without definitive outcome."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Thank you. Just a couple of small follow-ups, please. Firstly, on the changes in regulatory adjustments that helped capital in the quarter. Could you talk a bit more about what those were, and whether there are more of them to come, or any reversals, or they just are what they are? That would be helpful.",
+        "Page": 35,
+        "Person": "Jeremy Sigee",
+        "Role": "Analyst",
+        "Affiliation": "BNP Paribas Exane",
+        "Topics": [
+            {
+                "Name": "Regulatory Adjustments",
+                "Justification": "Inquires about changes in regulatory adjustments affecting capital."
+            },
+            {
+                "Name": "Capital Management",
+                "Justification": "Seeks understanding of future impacts on capital."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Requests information on regulatory impacts on capital."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "And then my second question is just on the Russia case. You mentioned it in the notes. Could you confirm that there is no financial impact in this quarter, and in fact, there's no provision booked, because it's fully offset by the claim? And just how confident you are in that, because other banks involved seem to be taking charges relating to that case.",
+        "Page": 35,
+        "Person": "Jeremy Sigee",
+        "Role": "Analyst",
+        "Affiliation": "BNP Paribas Exane",
+        "Topics": [
+            {
+                "Name": "Russia Case",
+                "Justification": "Inquires about financial impact and provisions related to Russia case."
+            },
+            {
+                "Name": "Litigation",
+                "Justification": "Seeks confirmation on financial handling of litigation case."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Requests clarification on financial handling of litigation case."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Thanks, Jeremy. I'll refer you, on the first question, to page 42 of the Q2 interim report. The main driver that we're referring to is what we call the expected loss shortfall. But on that disclosure, you see the various regulatory capital deduction items. The ELSF has been something that's increased significantly year on year, reflecting the portfolio changes that we introduced last year, and some of the, I'll call it, seasoning of those models.",
+        "Page": 36,
+        "Person": "James von Moltke",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Regulatory Adjustments",
+                "Justification": "Explains impact of expected loss shortfall on capital."
+            },
+            {
+                "Name": "Capital Management",
+                "Justification": "Discusses regulatory capital deduction items."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Provides factual information on regulatory impacts."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "On Russia, we essentially booked offsetting provision, and an indemnification asset. And so, we feel the risk is appropriately reflected on the balance sheet. And the evolution of the cases has been, overall, in line with our expectations.",
+        "Page": 36,
+        "Person": "James von Moltke",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Russia Case",
+                "Justification": "Explains financial handling of Russia case provisions."
+            },
+            {
+                "Name": "Litigation",
+                "Justification": "Discusses alignment with expectations on litigation case."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Neutral",
+            "Justification": "Confirms alignment with expectations without new information."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Good morning. The vast majority of my questions have been answered now, but perhaps if I could just ask on slide 29 on your interest income sensitivity. In light of the PMI data today, I think this is the first time you've switched this from 2024 to 2026, to 2025 to 2027 sensitivity. And you\u2019ve got a big step uptick in euro sensitivity coming through in 2027. I assume this is, in part, related to the structural hedge, but anything you can do, in terms of providing more colour on why such a big step-up going from 2026 to 2027 in your interest rate sensitivity guidance? Thank you.",
+        "Page": 36,
+        "Person": "Andrew Coombs",
+        "Role": "Analyst",
+        "Affiliation": "Citibank",
+        "Topics": [
+            {
+                "Name": "Interest Income Sensitivity",
+                "Justification": "Inquires about changes in interest income sensitivity."
+            },
+            {
+                "Name": "Financial Forecast",
+                "Justification": "Seeks understanding of future financial impacts."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Requests information on financial metrics and future impacts."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Thanks, Andrew. I appreciate the question. It\u2019s really just time. Actually, the first time when we prepared this slide, I was surprised, because it looked like the sensitivity had expanded, and I missed that we'd moved it forward by a year. So, that gives you an indication of how successful we've been, frankly, in closing down the rate sensitivity on our balance sheet.",
+        "Page": 37,
+        "Person": "James von Moltke",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "Deutsche Bank AG",
+        "Topics": [
+            {
+                "Name": "Interest Income Sensitivity",
+                "Justification": "Explains changes in interest income sensitivity."
+            },
+            {
+                "Name": "Financial Performance",
+                "Justification": "Mentions success in managing rate sensitivity."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Neutral",
+            "Justification": "Provides factual explanation of financial metrics."
+        }
+    }
+]

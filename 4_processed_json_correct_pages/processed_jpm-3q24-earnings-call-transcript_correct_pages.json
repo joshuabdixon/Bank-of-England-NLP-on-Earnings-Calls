@@ -1,0 +1,424 @@
+[
+    {
+        "Type": "Question",
+        "Text": "So, Jeremy, as you highlighted, full year NII guidance implies a sizable drop in Q4 NII ex. Markets about 6%. So, can you just maybe discuss what are the largest drivers of the sequential decline including any initial thoughts on deposit behavior and pricing since the 50 basis point cut?",
+        "Page": 4,
+        "Person": "Jim Mitchell",
+        "Role": "Analyst",
+        "Affiliation": "Seaport Global Securities LLC",
+        "Topics": [
+            {
+                "Name": "Net Interest Income",
+                "Justification": "Focuses on the expected decline in NII."
+            },
+            {
+                "Name": "Deposit Behavior",
+                "Justification": "Inquires about changes in deposit trends."
+            },
+            {
+                "Name": "Interest Rates",
+                "Justification": "Considers the impact of rate cuts on financials."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks factual information on financial metrics."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Yeah. Sure, Jim. I'll try to answer both questions together to the best of my ability. So, as we sit here today, the biggest single driver of the sequential decline is, in fact \u2013 that we're expecting \u2013 is, in fact, the yield curve. So, that yield curve has changed a little bit since Daniel made his comments at the conference earlier in the quarter, but not that significantly...",
+        "Page": 4,
+        "Person": "Jeremy Barnum",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "JPMorgan Chase & Co.",
+        "Topics": [
+            {
+                "Name": "Net Interest Income",
+                "Justification": "Discusses expected decline in NII."
+            },
+            {
+                "Name": "Yield Curve",
+                "Justification": "Identifies yield curve as a key factor."
+            },
+            {
+                "Name": "Deposit Behavior",
+                "Justification": "Mentions deposit trends and pricing."
+            }
+        ],
+        "Sentiment": {
+            "Score": -0.1,
+            "Category": "Slightly Negative",
+            "Justification": "Acknowledges challenges in NII due to yield curve."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "So Jeremy, how are you? So I do want to ask on expenses, just in light of some of the comments that Daniel had made recently, just noting that consensus expense forecast for next year looked a little bit too light...",
+        "Page": 5,
+        "Person": "Steven Chubak",
+        "Role": "Analyst",
+        "Affiliation": "Wolfe Research LLC",
+        "Topics": [
+            {
+                "Name": "Expenses",
+                "Justification": "Focuses on future expense forecasts."
+            },
+            {
+                "Name": "Financial Forecasting",
+                "Justification": "Questions accuracy of financial predictions."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks clarification on financial projections."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Sure. So good question and I agree with your numbers. I agree with the way you've normalized this year for the one-time type of significant items and also where the consensus was when Daniel made his comments...",
+        "Page": 5,
+        "Person": "Jeremy Barnum",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "JPMorgan Chase & Co.",
+        "Topics": [
+            {
+                "Name": "Expenses",
+                "Justification": "Confirms understanding of expense forecasts."
+            },
+            {
+                "Name": "Financial Strategy",
+                "Justification": "Discusses strategic financial planning."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Neutral",
+            "Justification": "Provides factual confirmation and explanation."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "And if I can ask my second question, and, Jamie, I completely understand your frustration. And to be fair, your long-term shareholders really don't care about whether it's $87 billion or $85 billion. Right? They care about your return on equity...",
+        "Page": 8,
+        "Person": "Erika Najarian",
+        "Role": "Analyst",
+        "Affiliation": "UBS Securities LLC",
+        "Topics": [
+            {
+                "Name": "Return on Equity",
+                "Justification": "Highlights shareholder focus on returns."
+            },
+            {
+                "Name": "Capital Deployment",
+                "Justification": "Inquires about strategic use of capital."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks insight into strategic financial priorities."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Okay. First of all, when you say dominant, I'd be very careful on that. We've got some very tough competition, different in different countries, different around the world, fintech companies, direct lenders...",
+        "Page": 8,
+        "Person": "Jamie Dimon",
+        "Role": "Chairman & Chief Executive Officer",
+        "Affiliation": "JPMorgan Chase & Co.",
+        "Topics": [
+            {
+                "Name": "Competition",
+                "Justification": "Acknowledges competitive landscape."
+            },
+            {
+                "Name": "Capital Strategy",
+                "Justification": "Discusses strategic capital deployment."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Expresses confidence in strategic positioning."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "So we've seen a couple more banks entering partnerships with alternative managers. We've seen limited loan growth for a few years now, market-related also; limited flows into fixed income funds, yet plenty of growth in private credit in general...",
+        "Page": 9,
+        "Person": "Glenn Schorr",
+        "Role": "Analyst",
+        "Affiliation": "Evercore ISI",
+        "Topics": [
+            {
+                "Name": "Private Credit",
+                "Justification": "Inquires about growth in private credit."
+            },
+            {
+                "Name": "Partnerships",
+                "Justification": "Mentions bank partnerships with managers."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks information on strategic partnerships."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Yeah. So let me take time to cover this one, because obviously it has become very important. People talking about how they're growing and partnering and things like that...",
+        "Page": 9,
+        "Person": "Jamie Dimon",
+        "Role": "Chairman & Chief Executive Officer",
+        "Affiliation": "JPMorgan Chase & Co.",
+        "Topics": [
+            {
+                "Name": "Private Credit",
+                "Justification": "Discusses strategy in private credit market."
+            },
+            {
+                "Name": "Partnerships",
+                "Justification": "Explains approach to partnerships."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Neutral",
+            "Justification": "Provides strategic insight without bias."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Good morning, Jeremy, and good morning, Jamie. Jeremy, when you guys look at your current capital ratios, they are obviously very healthy. Can you guys give us some color on the new Basel III?",
+        "Page": 10,
+        "Person": "Gerard Cassidy",
+        "Role": "Analyst",
+        "Affiliation": "RBC Capital Markets LLC",
+        "Topics": [
+            {
+                "Name": "Basel III",
+                "Justification": "Inquires about impact of Basel III regulations."
+            },
+            {
+                "Name": "Capital Ratios",
+                "Justification": "Focuses on current capital health."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks clarification on regulatory impact."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Yeah. When I said we're at $30 billion of excess, that is assuming Barr's speech, that the $20 billion goes to $12 billion or whatever it is, more. It'll be more than that because there are other factors involved...",
+        "Page": 10,
+        "Person": "Jamie Dimon",
+        "Role": "Chairman & Chief Executive Officer",
+        "Affiliation": "JPMorgan Chase & Co.",
+        "Topics": [
+            {
+                "Name": "Basel III",
+                "Justification": "Discusses assumptions based on Basel III."
+            },
+            {
+                "Name": "Capital Strategy",
+                "Justification": "Explains capital management approach."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Neutral",
+            "Justification": "Provides factual response with strategic insight."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Good morning. So lower rates was supposed to drive a pick-up in loan growth and conversion of some of these investment banking pipelines. Obviously, we just had one cut and it's early...",
+        "Page": 11,
+        "Person": "Matt O'Connor",
+        "Role": "Analyst",
+        "Affiliation": "Deutsche Bank Securities, Inc.",
+        "Topics": [
+            {
+                "Name": "Loan Growth",
+                "Justification": "Inquires about expected loan growth."
+            },
+            {
+                "Name": "Interest Rates",
+                "Justification": "Considers impact of rate cuts on growth."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks information on growth expectations."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "I would say, Matt, generally no, frankly, with a couple of minor exceptions. So I think it's probably fair to say that the outperformance late in the quarter in investment banking fees was to a meaningful degree...",
+        "Page": 11,
+        "Person": "Jeremy Barnum",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "JPMorgan Chase & Co.",
+        "Topics": [
+            {
+                "Name": "Loan Growth",
+                "Justification": "Addresses expectations for loan growth."
+            },
+            {
+                "Name": "Investment Banking",
+                "Justification": "Mentions performance in investment banking."
+            }
+        ],
+        "Sentiment": {
+            "Score": -0.1,
+            "Category": "Slightly Negative",
+            "Justification": "Acknowledges limited impact of rate cuts on growth."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Hey. Jamie, I think I've seen you comment on government this year more than any other time in your career. And the August 2 op-ed, Washington Post, Davos you're talking about government...",
+        "Page": 12,
+        "Person": "Mike Mayo",
+        "Role": "Analyst",
+        "Affiliation": "Wells Fargo Securities LLC",
+        "Topics": [
+            {
+                "Name": "Government Service",
+                "Justification": "Inquires about potential government role."
+            },
+            {
+                "Name": "Public Policy",
+                "Justification": "Mentions Dimon's public policy comments."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks clarification on Dimon's public service intentions."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "I think it's wrong. I've always been an American patriot. My country is more important to me than my company, and I think this government is very important to get this \u2013 and if you look at the world today, Mike, it is so important that we get things right for the whole geopolitical world...",
+        "Page": 12,
+        "Person": "Jamie Dimon",
+        "Role": "Chairman & Chief Executive Officer",
+        "Affiliation": "JPMorgan Chase & Co.",
+        "Topics": [
+            {
+                "Name": "Government Service",
+                "Justification": "Expresses commitment to current role."
+            },
+            {
+                "Name": "Public Policy",
+                "Justification": "Emphasizes importance of policy involvement."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.2,
+            "Category": "Slightly Positive",
+            "Justification": "Expresses patriotic commitment and strategic focus."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Yeah, good morning. I guess just wanted to follow-up. You talked about private credit and the disruption to bank lending. Another area I would appreciate if you can address is we've been hearing a lot about the likes of Jane Street and other market makers potentially disrupting fixed income trading...",
+        "Page": 13,
+        "Person": "Ebrahim H. Poonawala",
+        "Role": "Analyst",
+        "Affiliation": "Bank of America Merrill Lynch",
+        "Topics": [
+            {
+                "Name": "Fixed Income Trading",
+                "Justification": "Inquires about potential disruptions."
+            },
+            {
+                "Name": "Market Competition",
+                "Justification": "Mentions competition from market makers."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks insight into competitive landscape."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Yeah, Ebrahim, the way I would frame that is not as a risk but as a reality. We've always emphasized in all of our businesses that we operate in an extremely competitive environment, and that applies to \u2013 and that competitive environment isn't limited to competing against banks or traditional financial institutions...",
+        "Page": 13,
+        "Person": "Jeremy Barnum",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "JPMorgan Chase & Co.",
+        "Topics": [
+            {
+                "Name": "Market Competition",
+                "Justification": "Acknowledges competitive environment."
+            },
+            {
+                "Name": "Fixed Income Trading",
+                "Justification": "Discusses competition in trading."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Neutral",
+            "Justification": "Provides factual response with strategic insight."
+        }
+    },
+    {
+        "Type": "Question",
+        "Text": "Hey. Good morning. I'm not going to ask about a specific NII in 2025, but I did want to delve into the how to think about your deposit margin in volume dynamics in the CCB over the next few years...",
+        "Page": 17,
+        "Person": "Saul Martinez",
+        "Role": "Analyst",
+        "Affiliation": "HSBC Securities (USA), Inc.",
+        "Topics": [
+            {
+                "Name": "Deposit Margins",
+                "Justification": "Inquires about future deposit margin trends."
+            },
+            {
+                "Name": "Consumer Banking",
+                "Justification": "Focuses on CCB volume dynamics."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.0,
+            "Category": "Neutral",
+            "Justification": "Seeks information on future financial trends."
+        }
+    },
+    {
+        "Type": "Answer",
+        "Text": "Sure. Yeah, thanks for the question, Saul. And I think you've laid out the building blocks there already. Just for simplicity, I'm going to try to answer your question without referring to the disclosed CCB deposit margin number...",
+        "Page": 17,
+        "Person": "Jeremy Barnum",
+        "Role": "Chief Financial Officer",
+        "Affiliation": "JPMorgan Chase & Co.",
+        "Topics": [
+            {
+                "Name": "Deposit Margins",
+                "Justification": "Discusses future trends in deposit margins."
+            },
+            {
+                "Name": "Consumer Banking",
+                "Justification": "Explains CCB volume dynamics."
+            }
+        ],
+        "Sentiment": {
+            "Score": 0.1,
+            "Category": "Neutral",
+            "Justification": "Provides detailed response with strategic insight."
+        }
+    }
+]

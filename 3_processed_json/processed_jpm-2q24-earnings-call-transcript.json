@@ -1,0 +1,506 @@
+```json
+{
+    "Type": "Question",
+    "Text": "So, wanted to start off with a question on capital just given some indications that the Fed is considering favorable revisions to both Basel III Endgame and the GSIB surcharge calculations, which I know you've been pushing for some time. As you evaluate just different capital scenarios, are these revisions material enough where they could support a higher normalized ROTCE at the Firm versus the 17% target? And if so, just how that might impact or inform your appetite for buybacks going forward?",
+    "Page": 4,
+    "Person": "Steven Chubak",
+    "Role": "Analyst",
+    "Affiliation": "Wolfe Research LLC",
+    "Topics": [
+        {"Name": "Capital Management", "Justification": "Discusses potential changes in capital requirements and their impact."},
+        {"Name": "Regulatory Changes", "Justification": "Focuses on revisions to Basel III and GSIB surcharge calculations."},
+        {"Name": "Share Buybacks", "Justification": "Inquires about the impact of capital scenarios on buyback strategies."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Seeks factual information about capital scenarios and their implications."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Right. Okay. Thanks, Steve. And actually, before answering the question, I just want to remind everyone that Jamie is not able to join because he has a travel conflict overseas, so it's just going to be me today. Okay. Good question on the capital and the ROTCE. So, let me start with the ROTCE point first. In short, my answer to that question would be no. It's hard to imagine a scenario coming out of the whole potential range of outcomes on capital that involves an upward revision on ROTCE. If you think about the way we've been talking about this, we've said that before the Basel III Endgame proposal, we had a 17% through the cycle target, and that while you can imagine a range of different outcomes, the vast majority of them involve expansions of the denominator. And while we had ideas about changing the perimeter and repricing, all of which are still sort of in effect, most of those would be thought of as mitigants rather than things that would actually, like increase the ROTCE. And I don't really think that answer has particularly changed.",
+    "Page": 4,
+    "Person": "Jeremy Barnum",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "JPMorgan Chase",
+    "Topics": [
+        {"Name": "Capital Management", "Justification": "Discusses the impact of potential regulatory changes on capital ratios."},
+        {"Name": "Regulatory Compliance", "Justification": "Addresses the implications of Basel III Endgame on ROTCE."},
+        {"Name": "Financial Strategy", "Justification": "Explains the firm's approach to managing capital and ROTCE targets."}
+    ],
+    "Sentiment": {
+        "Score": -0.1,
+        "Category": "Slightly Negative",
+        "Justification": "Expresses skepticism about the potential for positive changes in ROTCE."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "Maybe just for my follow-up on NII, you've been very consistent just in flagging the risk related to NII overearning, especially in light of potential deposit attrition as well as repricing headwinds. In the second quarter, we did see at least some moderation in repricing pressures, deposit balances were also more resilient in with a seasonally weak quarter for deposit growth. So, just given the evidence that some deposit pressures appear to be abating, do you see the potential for NII normalizing higher? And where do you think that level could ultimately be in terms of stabilization?",
+    "Page": 5,
+    "Person": "Steven Chubak",
+    "Role": "Analyst",
+    "Affiliation": "Wolfe Research LLC",
+    "Topics": [
+        {"Name": "Net Interest Income", "Justification": "Focuses on the potential normalization of NII."},
+        {"Name": "Deposit Management", "Justification": "Inquires about the impact of deposit pressures on NII."},
+        {"Name": "Financial Outlook", "Justification": "Seeks insight into future NII stabilization levels."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Requests information on NII trends and future expectations."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Yeah. Interesting question, Steve. So, let's talk about deposit balances. So, yeah, I see your point about how balance pressures are slightly abating. When you look at the system as a whole, just to go through it, QT is still a bit of a headwind, loan growth is modest and not enough to offset that. And our PE seems to have settled in roughly at its current levels, and there are reasons to believe that it might not go down that much more, although that could always change and that could supply extra reserves into the system. But on balance net across all those various effects, we still think that there are net headwinds to deposit balances. So, when we think of our balance outlook, we see it as flat to slightly down maybe with our sort of market share and growth ambitions offsetting those system-wide headwinds.",
+    "Page": 5,
+    "Person": "Jeremy Barnum",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "JPMorgan Chase",
+    "Topics": [
+        {"Name": "Deposit Management", "Justification": "Discusses the outlook for deposit balances amid various pressures."},
+        {"Name": "Net Interest Income", "Justification": "Addresses the impact of deposit trends on NII."},
+        {"Name": "Financial Strategy", "Justification": "Explains the firm's approach to managing balance sheet pressures."}
+    ],
+    "Sentiment": {
+        "Score": -0.1,
+        "Category": "Slightly Negative",
+        "Justification": "Acknowledges ongoing headwinds to deposit balances."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "Can you give an update on the stress capital buffer? You noted obviously that you think there is an error in the Fed's calculation due to OCI. Can you just give us a sense of what the dialogue with the Fed looks like? Is there a process to modify the SCB higher and if you could give us a sense of what that process looks like?",
+    "Page": 5,
+    "Person": "Saul Martinez",
+    "Role": "Analyst",
+    "Affiliation": "HSBC Securities (USA), Inc",
+    "Topics": [
+        {"Name": "Regulatory Compliance", "Justification": "Inquires about the stress capital buffer and Fed calculations."},
+        {"Name": "Capital Management", "Justification": "Seeks clarification on potential changes to capital requirements."},
+        {"Name": "Financial Strategy", "Justification": "Explores the impact of regulatory processes on capital planning."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Requests information on regulatory processes and potential changes."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Yeah. So, I'm not going to comment about any conversations with the Fed – not to confirm or deny that they even exist. That stuff is private. And so, then if you talk about, like the timing here, right, so you know that the stress capital buffer that's been released at 3.3% is a preliminary number. By rule, the Fed has to release that by August 31. It may come sooner. You talked about an error in the calculation. We haven't used that word. What we know, what we believe rather is that the amount of OCI gain that came through the Fed's disclosed results looked non-intuitively high to us. And if you adjust that in ways that we think are reasonable, you would get a slightly higher stress capital buffer. Whether the Fed agrees and whether they decide to make that change or not is up to them, and we'll see what happens.",
+    "Page": 5,
+    "Person": "Jeremy Barnum",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "JPMorgan Chase",
+    "Topics": [
+        {"Name": "Regulatory Compliance", "Justification": "Discusses the stress capital buffer and Fed's calculations."},
+        {"Name": "Capital Management", "Justification": "Explains potential adjustments to capital requirements."},
+        {"Name": "Financial Strategy", "Justification": "Addresses the impact of regulatory processes on capital planning."}
+    ],
+    "Sentiment": {
+        "Score": -0.1,
+        "Category": "Slightly Negative",
+        "Justification": "Expresses uncertainty about Fed's agreement on adjustments."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "Can you just give us a sense of how you’re thinking about the various options? Any updated thoughts on a special dividend? And can you do other things like, for example, have a material increase in your dividend payout, sort of a step function increase, where keep that flat and grow into that, grow your earnings into that over time? Can you just maybe give us a sense of how you're thinking about what options you have available to deploy that capital?",
+    "Page": 6,
+    "Person": "Saul Martinez",
+    "Role": "Analyst",
+    "Affiliation": "HSBC Securities (USA), Inc",
+    "Topics": [
+        {"Name": "Capital Management", "Justification": "Explores options for capital deployment, including dividends."},
+        {"Name": "Shareholder Returns", "Justification": "Inquires about potential changes to dividend strategies."},
+        {"Name": "Financial Strategy", "Justification": "Seeks insight into the firm's approach to capital allocation."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Requests information on capital deployment strategies."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Sure. Yeah. I mean, I would direct you to read, I'm sure you have, Jamie's comments at the industry conference, where he participated the week after Investor Day because he went into just good amount of detail on this stuff, addressing some of these points. And I think this comment there about the special dividend was that it's not really our preference. We hear from people that many of our investors wouldn't find that particularly appealing, and he said as much that it wouldn't be sort of our first choice.",
+    "Page": 6,
+    "Person": "Jeremy Barnum",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "JPMorgan Chase",
+    "Topics": [
+        {"Name": "Capital Management", "Justification": "Discusses preferences for capital deployment options."},
+        {"Name": "Shareholder Returns", "Justification": "Explains the firm's stance on special dividends."},
+        {"Name": "Financial Strategy", "Justification": "Addresses the firm's approach to capital allocation."}
+    ],
+    "Sentiment": {
+        "Score": -0.1,
+        "Category": "Slightly Negative",
+        "Justification": "Indicates a lack of preference for special dividends."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "I'm just wondering just where you feel the environment is relative to the potential and just where the dialogue is across the three main bucket areas in terms of, like how does this feel in terms of a current environment versus a potential environment that we could still see ahead. Thanks.",
+    "Page": 6,
+    "Person": "Ken Usdin",
+    "Role": "Analyst",
+    "Affiliation": "Jefferies LLC",
+    "Topics": [
+        {"Name": "Market Conditions", "Justification": "Inquires about the current and potential future market environment."},
+        {"Name": "Investment Banking", "Justification": "Seeks insight into the state of investment banking activities."},
+        {"Name": "Financial Outlook", "Justification": "Explores expectations for future market conditions."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Requests information on current and potential market conditions."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Yeah. Thanks, Ken. It's progress, right? I mean, we're happy to see the progress. People have been talking about depressed banking fee wallet for some time and it's nice to see not only the year-on-year pop from a low base, but also a nice sequential improvement. So, that's the first thing to say. In terms of dialog and engagement, it's definitely elevated. So, the dialog on ECM is elevated, and the dialog on M&A is quite robust as well. So, all of those are good things that encourage us and make us hopeful that we could be seeing sort of a better trend in this space.",
+    "Page": 6,
+    "Person": "Jeremy Barnum",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "JPMorgan Chase",
+    "Topics": [
+        {"Name": "Market Conditions", "Justification": "Discusses improvements in market conditions and engagement."},
+        {"Name": "Investment Banking", "Justification": "Highlights progress in investment banking activities."},
+        {"Name": "Financial Outlook", "Justification": "Expresses optimism about future market trends."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Expresses optimism about improvements in market conditions."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "Just anything you're noticing in terms of people just have been waiting for this delinquency stabilization on the Credit Card side. Obviously, your loss rates are coming in as you expected, and we did see 30 days pretty flat and 90 days come down a little bit. Is that seasonal? Is it just a good rate of change trend? Any thoughts there? Thanks.",
+    "Page": 7,
+    "Person": "Ken Usdin",
+    "Role": "Analyst",
+    "Affiliation": "Jefferies LLC",
+    "Topics": [
+        {"Name": "Credit Card Performance", "Justification": "Inquires about trends in credit card delinquencies and loss rates."},
+        {"Name": "Financial Stability", "Justification": "Seeks insight into the stability of credit card performance."},
+        {"Name": "Consumer Behavior", "Justification": "Explores potential reasons for changes in credit card delinquencies."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Requests information on credit card performance trends."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Yeah. I still feel like when it comes to Card charge-offs and delinquencies, there's just not much to see there. It's still – it's normalization, not deterioration. It's in line with expectations. As I say, we always look quite closely inside the cohort, inside the income cohorts. And when you look in there, specifically, for example, on spend patterns, you can see a little bit of evidence of behavior that's consistent with a little bit of weakness in the lower income segments where you see a little bit of rotation on the spend out of discretionary into non-discretionary.",
+    "Page": 7,
+    "Person": "Jeremy Barnum",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "JPMorgan Chase",
+    "Topics": [
+        {"Name": "Credit Card Performance", "Justification": "Discusses trends in credit card charge-offs and delinquencies."},
+        {"Name": "Consumer Behavior", "Justification": "Highlights spending patterns in different income cohorts."},
+        {"Name": "Financial Stability", "Justification": "Emphasizes normalization in credit card performance."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Slightly Positive",
+        "Justification": "Indicates stability and normalization in credit card performance."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "Do you see the same trend happening on the asset-backed finance side because that's a bigger part of the world and it's a bigger part of your business? So, I'd appreciate your thoughts there. Thanks.",
+    "Page": 8,
+    "Person": "Glenn Schorr",
+    "Role": "Analyst",
+    "Affiliation": "Evercore ISI",
+    "Topics": [
+        {"Name": "Asset-Backed Finance", "Justification": "Inquires about trends in asset-backed finance."},
+        {"Name": "Market Conditions", "Justification": "Seeks insight into the state of the asset-backed finance market."},
+        {"Name": "Financial Strategy", "Justification": "Explores the firm's approach to asset-backed finance."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Requests information on trends in asset-backed finance."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Yeah. Thanks, Glenn. So, on private credit, so nothing really new to say there. I think, I guess, one way the environment's evolving a little bit is, as you know, a lot of money has been raised in private credit funds looking for deals. And sort of a little bit to my prior comment, in a relatively muted acquisition finance environment, at this point you've got a lot of money chasing, like not that many deals. So, the space is a little bit quieter than it was at the margin.",
+    "Page": 8,
+    "Person": "Jeremy Barnum",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "JPMorgan Chase",
+    "Topics": [
+        {"Name": "Private Credit", "Justification": "Discusses the state of the private credit market."},
+        {"Name": "Market Conditions", "Justification": "Highlights the quiet state of the private credit space."},
+        {"Name": "Financial Strategy", "Justification": "Explains the firm's approach to private credit opportunities."}
+    ],
+    "Sentiment": {
+        "Score": -0.1,
+        "Category": "Slightly Negative",
+        "Justification": "Indicates a quieter state in the private credit market."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "I was just wondering if you can elaborate on essentially the math behind the ROTCE being too high at 20% and more normalized at 17%. Obviously, you've pointed to overearning on NII. And I guess, the question is, is that all of it to go from 20% to 17%? And if so, is that all consumer deposit costs or are there a few other components that you could help frame for us?",
+    "Page": 9,
+    "Person": "Matt O'Connor",
+    "Role": "Analyst",
+    "Affiliation": "Deutsche Bank Securities, Inc.",
+    "Topics": [
+        {"Name": "Return on Tangible Common Equity", "Justification": "Inquires about the factors affecting ROTCE levels."},
+        {"Name": "Net Interest Income", "Justification": "Explores the impact of NII on ROTCE."},
+        {"Name": "Financial Strategy", "Justification": "Seeks insight into the firm's approach to managing ROTCE."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Requests information on factors affecting ROTCE levels."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Sure. Good question, Matt. I mean, I guess, the way I think about it is a couple of things, like our returns tend to be a bit seasonal, right? So, if you kind of build yourself out a full-year forecast and make reasonable, just based on your own or analyst consensus or whatever and you think about fourth quarter, like better look at this on a full-year basis when you think about the returns than the quarterly numbers and you obviously have to strip out kind of the one-time items. And so, if you do that, like whatever you get for this year, is still clearly a number that's higher than the 17%. So, yeah, one source of headwinds is normalization of the NII, primarily as a result of expected higher deposit costs. That's – we've talked about that. Part of it is also the yield curve effects. Some cuts will come into the curve at some point.",
+    "Page": 9,
+    "Person": "Jeremy Barnum",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "JPMorgan Chase",
+    "Topics": [
+        {"Name": "Return on Tangible Common Equity", "Justification": "Explains factors affecting ROTCE levels."},
+        {"Name": "Net Interest Income", "Justification": "Discusses the impact of NII normalization on ROTCE."},
+        {"Name": "Financial Strategy", "Justification": "Addresses the firm's approach to managing ROTCE."}
+    ],
+    "Sentiment": {
+        "Score": -0.1,
+        "Category": "Slightly Negative",
+        "Justification": "Acknowledges headwinds to ROTCE from NII normalization."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "Hi. Jeremy, you said it's too early to end the overearning narrative and you highlighted higher deposit costs and the impact of lower rates and lower NII and DCM pull-forward and credit costs going higher. Anything I'm missing in that list? And what would cause you to end the overearning narrative?",
+    "Page": 10,
+    "Person": "Mike Mayo",
+    "Role": "Analyst",
+    "Affiliation": "Wells Fargo Securities LLC",
+    "Topics": [
+        {"Name": "Net Interest Income", "Justification": "Inquires about factors contributing to the overearning narrative."},
+        {"Name": "Financial Strategy", "Justification": "Seeks insight into the firm's approach to managing overearning."},
+        {"Name": "Market Conditions", "Justification": "Explores the impact of market conditions on overearning."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Requests information on factors contributing to the overearning narrative."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "No. Actually, I think that is the right list, Mike. I mean, frankly, I think one thing that would end the overearning narrative is if our annual returns were closer to 17%. I mean, to the extent that that is the through the cycle number that we believe and that we're currently producing more than that, that's one very simple way to look at that. But the pieces of that are the pieces that you talked about and the single most important piece is the deposit margin. Our deposit margins are well above historical norms, and that is a big part of the reason that we still are emphasizing the overearning narrative.",
+    "Page": 10,
+    "Person": "Jeremy Barnum",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "JPMorgan Chase",
+    "Topics": [
+        {"Name": "Net Interest Income", "Justification": "Discusses factors contributing to the overearning narrative."},
+        {"Name": "Financial Strategy", "Justification": "Explains the firm's approach to managing overearning."},
+        {"Name": "Market Conditions", "Justification": "Highlights the impact of deposit margins on overearning."}
+    ],
+    "Sentiment": {
+        "Score": -0.1,
+        "Category": "Slightly Negative",
+        "Justification": "Acknowledges ongoing emphasis on the overearning narrative."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "So, I did want to ask one drill-down question on 2Q, and it's related to the dollar amount of buybacks that you did do. I think in the press release, right, in the slide deck, it's $4.9 billion common stock net repurchases. So, the question here is, what's the governor for you on how much to do every quarter? And, I mean, I understand it's a function of, okay, how much do we organically grow. But even with that, so you get the organic growth, which you had some nice movement there. But you do the organic growth and then is it how much do we earn and we want to buy back our earnings or how should we be thinking about what that repurchase volume should be looking like over time?",
+    "Page": 11,
+    "Person": "Betsy L. Graseck",
+    "Role": "Analyst",
+    "Affiliation": "Morgan Stanley & Co. LLC",
+    "Topics": [
+        {"Name": "Share Buybacks", "Justification": "Inquires about the firm's approach to share repurchase volumes."},
+        {"Name": "Capital Management", "Justification": "Seeks insight into factors influencing buyback decisions."},
+        {"Name": "Financial Strategy", "Justification": "Explores the firm's approach to capital allocation and buybacks."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Requests information on the firm's approach to share buybacks."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Yeah. That's a very good and fair question, Betsy. So, let me try to unpack it to the best of my ability. So, in no particular order, one thing that we've really tried to emphasize in a number of different settings, including in our recent 10-Qs actually is that we don't want to get into the business of guiding on buybacks. So, we're going to buy back whatever we think makes sense in the current moment sort of and we reserve the right to sort of change that at any time. So, I recognize that not everyone loves that, but that is kind of a philosophical belief and so, I might as well say it explicitly. It was pretty clear in the Q also, but I'm just going to say that again. So, that's point one.",
+    "Page": 11,
+    "Person": "Jeremy Barnum",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "JPMorgan Chase",
+    "Topics": [
+        {"Name": "Share Buybacks", "Justification": "Explains the firm's approach to share repurchase volumes."},
+        {"Name": "Capital Management", "Justification": "Discusses factors influencing buyback decisions."},
+        {"Name": "Financial Strategy", "Justification": "Addresses the firm's approach to capital allocation and buybacks."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Provides information on the firm's approach to share buybacks."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "I noticed on the average balances the non-interest-bearing deposits were relatively stable quarter-to-quarter versus prior quarters when they’ve steadily declined. And this is one of the areas, of course, investors are focused on in terms of the future of the net interest margin for you and your peers. Can you elaborate, if you can, what you’re seeing in that non-interest-bearing deposit account? I know this is average and not period, and the end number may actually be lower. But what are you guys seeing here?",
+    "Page": 12,
+    "Person": "Gerard Cassidy",
+    "Role": "Analyst",
+    "Affiliation": "RBC Capital Markets LLC",
+    "Topics": [
+        {"Name": "Deposit Management", "Justification": "Inquires about trends in non-interest-bearing deposits."},
+        {"Name": "Net Interest Margin", "Justification": "Explores the impact of deposit trends on NIM."},
+        {"Name": "Financial Strategy", "Justification": "Seeks insight into the firm's approach to managing deposits."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Requests information on trends in non-interest-bearing deposits."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Yeah. Good question, Gerard. I have to be honest, I hadn’t focused on that particular sequential explain, i.e., quarter-on-quarter change and average non-interest-bearing deposits. But I think the more important question is the big picture question, which is what do we expect? How are we thinking about ongoing migration of non-interest-bearing into interest-bearing in the current environment and how that affects our NII outlook and our expectation for weighted average rate paid on deposits?",
+    "Page": 12,
+    "Person": "Jeremy Barnum",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "JPMorgan Chase",
+    "Topics": [
+        {"Name": "Deposit Management", "Justification": "Discusses trends in non-interest-bearing deposits."},
+        {"Name": "Net Interest Margin", "Justification": "Addresses the impact of deposit trends on NIM."},
+        {"Name": "Financial Strategy", "Justification": "Explains the firm's approach to managing deposits."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Provides information on trends in non-interest-bearing deposits."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "One of the great credit quality stories for everyone, including yourselves, is the C&I portfolio, how strong it's been in this elevated rate environment? And I know your numbers are still quite low, but in the Corporate and Investment Bank, you had about a $500 million pickup in non-accrual loans. Can you share with us what are you seeing in C&I? Are there any early signs of cracks or anything? And, again, I know your numbers are still good, but I'm just trying to look forward to see if there's something here over the next 12 months or so.",
+    "Page": 13,
+    "Person": "Gerard Cassidy",
+    "Role": "Analyst",
+    "Affiliation": "RBC Capital Markets LLC",
+    "Topics": [
+        {"Name": "Commercial and Industrial Loans", "Justification": "Inquires about trends in the C&I loan portfolio."},
+        {"Name": "Credit Quality", "Justification": "Seeks insight into the strength of the C&I portfolio."},
+        {"Name": "Financial Stability", "Justification": "Explores potential signs of weakness in the C&I portfolio."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Requests information on trends in the C&I loan portfolio."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Yeah. It's a good question. I think the short answer is no. We're not really seeing early signs of cracks in C&I. I mean, yes, I agree with you, like the C&I charge-off rate has been very, very low for a long time. I think we emphasized that at last year's Investor Day, if I remember correctly. I think the C&I charge-off rate we've seen in 10 years was something like literally zero. So, that is clearly very low by historical standards. And while we take a lot of pride in that number and I think it reflects the discipline in our underwriting process and the strength of our credit culture across the bankers and the risk team, that's not – we don't actually run that franchise to like a zero loss expectation. So, you have to assume there will be some upward pressure on that. But in any given quarter, the C&I numbers tend to be quite lumpy and quite idiosyncratic. So, I don't think that anything in the current quarter's results is indicative of anything broader, and I haven't heard anyone internally talk that way, I would say.",
+    "Page": 13,
+    "Person": "Jeremy Barnum",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "JPMorgan Chase",
+    "Topics": [
+        {"Name": "Commercial and Industrial Loans", "Justification": "Discusses trends in the C&I loan portfolio."},
+        {"Name": "Credit Quality", "Justification": "Highlights the strength of the C&I portfolio."},
+        {"Name": "Financial Stability", "Justification": "Emphasizes the stability of the C&I portfolio."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Slightly Positive",
+        "Justification": "Indicates stability and strength in the C&I portfolio."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "The consensus provision for 2024 is $10.7 billion. Could you maybe clarify for once and for all sort of Jamie's comments at an industry conference earlier and try to sort of triangulate if that $10.7 billion provision is appropriate for the growth level that you are planning for in Card?",
+    "Page": 14,
+    "Person": "Erika Najarian",
+    "Role": "Analyst",
+    "Affiliation": "UBS Securities LLC",
+    "Topics": [
+        {"Name": "Credit Provisions", "Justification": "Inquires about the appropriateness of credit provisions for 2024."},
+        {"Name": "Credit Card Performance", "Justification": "Seeks insight into credit provisions related to card growth."},
+        {"Name": "Financial Strategy", "Justification": "Explores the firm's approach to managing credit provisions."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Requests information on credit provisions for 2024."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Yeah. Happy to clarify that. So, Jamie's comments were that the allowance – the build and the Card allowance, so we're talking about Card specifically, we expected something like $2 billion for the full year. As I sit here today, our expectation for that number is actually slightly higher, but it's in the ballpark. And I think in terms of what that means for the consensus on the overall allowance change for the year, last time I checked, it still looked a little low on that front. So, who knows what it'll actually wind up being, but that remains our view.",
+    "Page": 14,
+    "Person": "Jeremy Barnum",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "JPMorgan Chase",
+    "Topics": [
+        {"Name": "Credit Provisions", "Justification": "Discusses expectations for credit provisions related to card growth."},
+        {"Name": "Credit Card Performance", "Justification": "Explains the firm's approach to managing card allowances."},
+        {"Name": "Financial Strategy", "Justification": "Addresses the firm's approach to managing credit provisions."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Provides information on credit provisions for 2024."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "Maybe just one last question on sort of deploying excess capital. It seems like the two primary ways to do that organically would be through the trading book or the loan book. So, maybe two questions there. One, trading assets were up 20% year-over-year. Is that you leaning into it or just a function of demand? And is there further opportunities to grow that? And then, secondly, outside of Card, loan demand has been quite weak and any thoughts from you on if you're seeing any change in demand or how you're thinking about loan demand going forward? Thanks.",
+    "Page": 14,
+    "Person": "Jim Mitchell",
+    "Role": "Analyst",
+    "Affiliation": "Seaport Global Securities LLC",
+    "Topics": [
+        {"Name": "Capital Management", "Justification": "Inquires about strategies for deploying excess capital."},
+        {"Name": "Trading Assets", "Justification": "Explores trends in trading asset growth."},
+        {"Name": "Loan Demand", "Justification": "Seeks insight into trends in loan demand outside of Card."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Requests information on strategies for deploying excess capital."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Thanks, Jim. Good questions. So, yeah, trading assets have been up. That is basically client activity, primarily secured financing-related sort of matchbook repo-type stuff and similar things that are – gross up the balance sheet quite a bit, but are quite low risk and therefore, quite low RWA intensity. So, while our ability to supply that financing to clients is something that we're happy about and it's very much represents us leaning into the franchise to serve our clients. It's not really particularly RWA and therefore, capital intensive and therefore, doesn't really reflect an aggressive choice on our part to deploy capital, so to speak.",
+    "Page": 14,
+    "Person": "Jeremy Barnum",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "JPMorgan Chase",
+    "Topics": [
+        {"Name": "Trading Assets", "Justification": "Discusses trends in trading asset growth."},
+        {"Name": "Capital Management", "Justification": "Explains the firm's approach to deploying excess capital."},
+        {"Name": "Financial Strategy", "Justification": "Addresses the firm's approach to managing trading assets."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Provides information on trends in trading asset growth."
+    }
+}
+```

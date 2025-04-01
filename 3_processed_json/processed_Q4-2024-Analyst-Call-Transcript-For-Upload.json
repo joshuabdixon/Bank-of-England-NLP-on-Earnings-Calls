@@ -1,0 +1,1105 @@
+```json
+{
+    "Type": "Question",
+    "Text": "Could you elaborate on the bridge to the €32 billion of revenue target, please? And in particular, what gives you confidence that you can reach €32 billion and how the start of the year positions you towards these targets?",
+    "Page": 24,
+    "Person": "Nicolas Payen",
+    "Role": "Analyst",
+    "Affiliation": "Kepler Cheuvreux",
+    "Topics": [
+        {"Name": "Revenue Targets", "Justification": "Inquires about achieving specific revenue goals."},
+        {"Name": "Financial Performance", "Justification": "Seeks understanding of financial projections."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Factual inquiry about financial targets."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "The second question will be on share buyback. You previously alluded to a share buyback annual growth of roughly 50%, which would put you at €1 billion share buyback versus the €750 million that you announced. The question is, can we expect more throughout the years, and at what point in time during this year? And also, what are the performance criteria that you are looking at to potentially announce more?",
+    "Page": 24,
+    "Person": "Nicolas Payen",
+    "Role": "Analyst",
+    "Affiliation": "Kepler Cheuvreux",
+    "Topics": [
+        {"Name": "Share Buyback", "Justification": "Focuses on the company's share repurchase strategy."},
+        {"Name": "Capital Management", "Justification": "Inquires about financial strategies and criteria."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Seeks clarification on financial strategy."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Thank you, Nicolas, it's Christian. Let me start with your questions, and then James can contribute. What makes us confident is, first of all, the overall positioning and foundation which we have built over the last four or five years as the Global Hausbank to our clients. The momentum, the development in all four businesses, feedback from clients. In all the last three or four years we not only met our revenue targets, but even exceeded that in the years. It really makes me confident that from the offering we have, from the positioning we have, it is actually the right starting point also for the next years. And that feedback, Nicolas, we get continuously back from our clients, be it institutional clients, corporate clients and private clients.",
+    "Page": 25,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Revenue Targets", "Justification": "Discusses confidence in achieving revenue goals."},
+        {"Name": "Client Relations", "Justification": "Mentions feedback from various client segments."},
+        {"Name": "Business Strategy", "Justification": "Highlights strategic positioning and development."}
+    ],
+    "Sentiment": {
+        "Score": 0.3,
+        "Category": "Slightly Positive",
+        "Justification": "Expresses confidence in achieving targets."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "And let me also say that, in particular, the geopolitical items which we are facing in this world, in this regard support us. People want our advice. Corporates talk to us on their amended networks. The mandates we get from the corporate side, from the institutional side, is again something which really makes me confident and is on a level which we haven't seen before.",
+    "Page": 25,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Geopolitical Impact", "Justification": "Discusses how global events influence business."},
+        {"Name": "Client Relations", "Justification": "Mentions increased demand for advice."},
+        {"Name": "Business Strategy", "Justification": "Highlights strategic positioning and development."}
+    ],
+    "Sentiment": {
+        "Score": 0.3,
+        "Category": "Slightly Positive",
+        "Justification": "Expresses confidence in business opportunities."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Now, to the bridge from €30.1 billion to €32 billion, what makes me confident, and how do we see that? I would really divide that in three parts. Number one, it's €400 million coming from NII, and that is obviously reflecting the hedging, which we have already put in place. This will, in particular, come from the Private Bank and the Corporate Bank side. And on top of that, we see also the growth in our FIC Financing. That is approximately €400 million which we will see. Also, the good work which we have done on the Treasury side with our business, so that is locked in.",
+    "Page": 25,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Revenue Targets", "Justification": "Explains components of revenue growth."},
+        {"Name": "Financial Strategy", "Justification": "Discusses hedging and treasury strategies."},
+        {"Name": "Business Strategy", "Justification": "Highlights strategic positioning and development."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Confident in achieving financial targets."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Now, the next thing is the more predictable businesses, which we see at approximately €800 million, if not even a bit more. And that is the Private Bank, Asset Management and the Corporate Bank. Now, in those you have approximately €400 million from the Corporate Bank. That, again, comes from active repricing, monetizing our existing clients, scaling the business which we have invested in.",
+    "Page": 26,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Revenue Targets", "Justification": "Explains components of revenue growth."},
+        {"Name": "Business Strategy", "Justification": "Discusses scaling and monetizing strategies."},
+        {"Name": "Financial Strategy", "Justification": "Mentions active repricing as a revenue driver."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Confident in achieving financial targets."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "If you look into our investments, which we have done in 2023, in 2024, but in particular, looking at the investment plan for 2025, a high degree and the highest amounts in those years, and in particular in 2025, goes into the Corporate Bank to really scale up our offering. And you have seen the overall development of the Corporate Bank, which is at the core of our franchise. And therefore, I can see at least this €400 million of uptick in the year 2025. And again, if I look at the mandates, which we are constantly winning, how the year started, I'm very optimistic here.",
+    "Page": 26,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Business Strategy", "Justification": "Discusses scaling and investment strategies."},
+        {"Name": "Revenue Targets", "Justification": "Explains components of revenue growth."},
+        {"Name": "Financial Strategy", "Justification": "Mentions investment plans as a revenue driver."}
+    ],
+    "Sentiment": {
+        "Score": 0.3,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about future growth."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "The other €400 million is coming from the Private Bank and Asset Management side. And here, a lot of pre-work has been done. I think in the prepared remarks, we talked about the growth in the assets under management on both sides, the Private Bank and the Asset Management side. Obviously, with the fees generated out of that, we will see higher returns. There is no drag on the NII side, I talked about the initial €400 million. Therefore, we can clearly see with the increased volume, higher revenues.",
+    "Page": 26,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Revenue Targets", "Justification": "Explains components of revenue growth."},
+        {"Name": "Financial Strategy", "Justification": "Mentions asset management as a revenue driver."},
+        {"Name": "Business Strategy", "Justification": "Discusses scaling and investment strategies."}
+    ],
+    "Sentiment": {
+        "Score": 0.3,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about future growth."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Last but not least, I also said that in the discussions before, which we had on the quarterly side, there is a lot of momentum also in Germany in the retail bank. I think in Germany, one of the biggest problems and challenges we have is actually with our pension plans in the next years, and more and more these are the discussions which we have with our clients. And again, then applying that to 15 million Postbank clients now being on our IT platform is a huge opportunity for us, and Claudio is banking on that.",
+    "Page": 26,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Business Strategy", "Justification": "Discusses opportunities in the retail banking sector."},
+        {"Name": "Client Relations", "Justification": "Mentions client discussions as a growth driver."},
+        {"Name": "Revenue Targets", "Justification": "Explains components of revenue growth."}
+    ],
+    "Sentiment": {
+        "Score": 0.3,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about future growth."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "That brings those two to €1.2 billion, so you are at €31.2, €31.3 billion. Where’s the rest coming from? €500 to €600 million in the Investment Bank from the O&A business. I think James and I talked a lot about that over the last 18 months. We did on purpose the investments in the middle of 2023, not only Numis, but in particular, also the hirings of senior directors in the corporate finance business. I think we could show, with the growth rates in 2024, that this started to pay off. I'm really proud what Fabrizio has done in that business. Look at the Q4 numbers in the O&A business. We clearly outperformed the market, and I can see that this momentum is going on. We believe that in the O&A market, we can increase our market share by approximately 50 basis points to approximately 3 percentage points.",
+    "Page": 26,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Revenue Targets", "Justification": "Explains components of revenue growth."},
+        {"Name": "Business Strategy", "Justification": "Discusses scaling and investment strategies."},
+        {"Name": "Financial Strategy", "Justification": "Mentions market share growth as a revenue driver."}
+    ],
+    "Sentiment": {
+        "Score": 0.3,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about future growth."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "And then I also do believe that the fee pool, in particular, given what is happening in this world, with the growth momentum we see in the US, will be higher next year. But the real impact, the majority of the €500 to €600 million, is clearly coming from now that the investments are fully paying off and that we increase our market share.",
+    "Page": 27,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Revenue Targets", "Justification": "Explains components of revenue growth."},
+        {"Name": "Business Strategy", "Justification": "Discusses scaling and investment strategies."},
+        {"Name": "Financial Strategy", "Justification": "Mentions market share growth as a revenue driver."}
+    ],
+    "Sentiment": {
+        "Score": 0.3,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about future growth."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Now, that already brings us very close to the €32 billion. I haven't talked about the FIC business, because in particular Ram Nayak is not standing still. We have done significant investments, in particular in Latin America, but also North America in our business. Watch the Credit Trading business, also with the recent hires, which we have done summer of last year, and obviously which are paying off more and more. And therefore, I do believe that we have also a chance to grow there.",
+    "Page": 27,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Revenue Targets", "Justification": "Explains components of revenue growth."},
+        {"Name": "Business Strategy", "Justification": "Discusses scaling and investment strategies."},
+        {"Name": "Financial Strategy", "Justification": "Mentions market share growth as a revenue driver."}
+    ],
+    "Sentiment": {
+        "Score": 0.3,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about future growth."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "This is the bridge for us from €30 billion to €32 billion. The confidence level, which James and I have, and Fabrizio and Claudio, is also sparked by a first good month. Now, we know we cannot rest here. One month is one month, but the overall momentum in this bank to drive this, the feedback from the clients, also last week in Davos, is clearly telling me this is achievable. And I'm sure we can show you that already at the end of April.",
+    "Page": 27,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Revenue Targets", "Justification": "Explains components of revenue growth."},
+        {"Name": "Business Strategy", "Justification": "Discusses scaling and investment strategies."},
+        {"Name": "Client Relations", "Justification": "Mentions client feedback as a confidence booster."}
+    ],
+    "Sentiment": {
+        "Score": 0.3,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about future growth."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Second part, on the share buybacks. Look, I do believe that James and I have always managed this bank in a prudent and conservative way, i.e., in particular to your question, €1 billion to €750 million. First of all, I'm really happy with the starting point with which we start into this measurement year of 2025. 13.8% capital ratio gives us the ammunition, on the one hand, to grow business and have the right resources. That's all in our plans. But at the same time, obviously also reward our shareholders with the €750 million, which we announced. And we should not forget that with the 50% increase in dividend per share, we announced to the market already a distribution of €2.1 billion for this year. I think it's a wonderful starting point. If you move that up, we are now at €5.4 billion distributions since 2022. If we think about our path which we gave to the market, in particular with regard to growing our distributions and also the dividends, and you apply the next increase on the dividends for next year, you are already very, very close to the €8 billion.",
+    "Page": 27,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Share Buyback", "Justification": "Discusses share repurchase strategy and targets."},
+        {"Name": "Capital Management", "Justification": "Mentions capital ratio and distribution plans."},
+        {"Name": "Financial Strategy", "Justification": "Explains dividend and distribution strategy."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Confident in financial strategy and targets."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Now, I think, and that's what our approach is, let us deliver on our business execution in the next month to deliver the 10% return on tangible equity. Of course, we will review our distributions in the course of the year on the basis of our performance, as at the end of the day, we know that we also want to reward the shareholders. But I think it's a good and prudent start into the year. And let me end also with one thing, absolute confidence that we will do that, what we promise to you, to distribute more than €8 billion in respect of the years 2021 to 2025, including the payouts in 2026.",
+    "Page": 28,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Share Buyback", "Justification": "Discusses share repurchase strategy and targets."},
+        {"Name": "Capital Management", "Justification": "Mentions capital ratio and distribution plans."},
+        {"Name": "Financial Strategy", "Justification": "Explains dividend and distribution strategy."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Confident in financial strategy and targets."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "Can you please talk a bit more about the increase in your guidance of the adjusted costs to €20.3 billion? How much of this is a function of your revenue expectations in 2025 and how much is this reflecting future investments?",
+    "Page": 28,
+    "Person": "Anke Reingen",
+    "Role": "Analyst",
+    "Affiliation": "RBC",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Inquires about cost guidance and factors."},
+        {"Name": "Financial Strategy", "Justification": "Seeks understanding of cost and revenue expectations."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Factual inquiry about financial strategy."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "And then, how should we think about it at the divisional level, on how the higher cost base comes through also in terms of the cost/income ratio target, and in comparison, you previously provided cost/income ratio targets at your previous capital markets day?",
+    "Page": 28,
+    "Person": "Anke Reingen",
+    "Role": "Analyst",
+    "Affiliation": "RBC",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Inquires about cost guidance and divisional impact."},
+        {"Name": "Financial Strategy", "Justification": "Seeks understanding of cost/income ratio targets."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Factual inquiry about financial strategy."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "And then just the 62.5% cost/income ratio, is that now a target that's not in reach, or does it remain a longer aspiration, something you might potentially discuss in the course of the year?",
+    "Page": 28,
+    "Person": "Anke Reingen",
+    "Role": "Analyst",
+    "Affiliation": "RBC",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Inquires about cost/income ratio targets."},
+        {"Name": "Financial Strategy", "Justification": "Seeks understanding of financial targets and aspirations."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Factual inquiry about financial strategy."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "And then last question, obviously, this is a bit of a disappointment on the Q4 performance. What should give us the confidence that Q4 2025 doesn't give us a similar disappointment? And then that aspect, I think the nonoperating costs at €400 million look relatively low. If you can give us a bit more confidence that really these costs, ignoring FX effects, you will be able to deliver them.",
+    "Page": 29,
+    "Person": "Anke Reingen",
+    "Role": "Analyst",
+    "Affiliation": "RBC",
+    "Topics": [
+        {"Name": "Financial Performance", "Justification": "Inquires about future performance and cost management."},
+        {"Name": "Cost Management", "Justification": "Seeks understanding of nonoperating cost targets."}
+    ],
+    "Sentiment": {
+        "Score": -0.1,
+        "Category": "Slightly Negative",
+        "Justification": "Expresses concern about future performance."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Thank you, Anke. It's James here. Lots to talk about, but all the right questions on the cost side, for sure. Let me go in a little bit of a mixed order. On the nonoperating costs, start with restructuring and severance. We've come such a long way in terms of the transformation of the company that there is not a great deal left to do, and we control that number. When I say not a great deal, there's still some work that Claudio and his team are doing in the Private Bank, you've seen that. But, of course, we've taken some into Q4 to enable us to take some actions already in 2025. But for practical purposes, we're through the major transformation of the company.",
+    "Page": 29,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Discusses restructuring and severance costs."},
+        {"Name": "Business Transformation", "Justification": "Mentions progress in company transformation."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about cost management."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "On the litigation side, the way I think about it is that there's a funnel of matters that can result in outflows in any given period of time. And that funnel is simply emptied now, not in the right way. Obviously, in 2024 we had some surprises, and there can always be unknown unknowns, but of the known items, the funnel is simply empty or nigh on empty. And the risks that we can see are remote, both in terms of time and likelihood. We feel really good about the trajectory now on the normalization of nonoperating costs, and that goes for Q4 next year. Obviously, we have every incentive not to deliver another year in which there's a messy Q4.",
+    "Page": 29,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Discusses litigation costs and risk management."},
+        {"Name": "Financial Strategy", "Justification": "Mentions normalization of nonoperating costs."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about cost management."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "If I go to the investor day numbers, and this goes all the way back to 2022, I see really good progress. If I look at the business cost/income ratios in our plan for this year, really encouraging progress. Now, these weren't formal targets, but definitely a guide for you. And we see both Corporate Bank and Investment Bank within the range. Corporate Bank may be towards the high end of the range, Investment Bank towards the middle of the range, and Asset Management also very, very close to the top end of the range. So, really good progress in those businesses.",
+    "Page": 30,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Discusses cost/income ratios and progress."},
+        {"Name": "Financial Strategy", "Justification": "Mentions progress in achieving financial targets."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Expresses satisfaction with progress in cost management."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "The Private Bank at this point will clearly be above the range, but actually, the underlying performance of the Private Bank is very encouraging. In absolute terms they are coming in very close to what we had factored in at the time. But they're carrying the burden of really two things. They are where some of the incremental investment of controls and technology has gone in the years. And also, as we've refined our internal cost allocations, you remember, we've talked about driver-based cost management, it has tended to shift some of the expenses to the Private Bank. Overall, we're encouraged by what we see, and there's still work to do. We don't think the trajectory for the businesses or the group ends with 2025.",
+    "Page": 30,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Discusses cost/income ratios and progress."},
+        {"Name": "Financial Strategy", "Justification": "Mentions progress in achieving financial targets."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Expresses satisfaction with progress in cost management."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "And that gets me to your third question. No, we're not cashiering the 62.5% forever. We think that the operating leverage that we've built and will continue to see in the company will take the cost/income ratio further down in the years to come. We absolutely think that that is within reach of the firm, but not in 2025. That then gets you to what has driven the adjusted costs up to our current view of €20.3 billion on the old FX. Look, it's a bunch of drivers. And again, cumulatively since the last capital markets day, I would probably bucket it as a third, a third, a third. It's €600 million or €700 million over that time if you express it in cost/income ratio terms. And about a third has gone into business investments, about a third into controls, and the further third into technology, if I give you rough numbers. Probably a little bit more weighted towards technology in that math.",
+    "Page": 30,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Discusses cost/income ratios and progress."},
+        {"Name": "Financial Strategy", "Justification": "Mentions progress in achieving financial targets."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Expresses satisfaction with progress in cost management."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Now, you've seen us make those decisions. And, as we said in the prepared remarks, we think they're the right decisions for the company. Controls are the license to operate. And back in 2022, we relatively quickly recognized we needed more investment to close out the control improvements, to meet our own expectations and those of the regulators, and that investment has continued. On technology, that's been sustained over the past several years. And as you know, our business very much competes on the technology that you can provide across a whole range of activities, including the client experience. We think it's the right decision, therefore, to continue and sustain that investment.",
+    "Page": 31,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Discusses cost/income ratios and progress."},
+        {"Name": "Financial Strategy", "Justification": "Mentions progress in achieving financial targets."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Expresses satisfaction with progress in cost management."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "On the business side, this really goes back to the 2023 investment opportunity we saw, particularly in the Investment Bank at the time. And we like how that investment is paying off and will pay off in the years to come. It's, if you like, the cumulative impact of those things that have carried into the costs for this year. If you're in the deep detail of why now and what wasn't visible to us last year, look, as we went through a planning cycle, I would say, in addition to all of the above, inflation has run maybe €100 million, expressed just in 2025 terms, higher than we might have expected at the time. Cumulatively, those are the drivers that have driven us to where we are now.",
+    "Page": 31,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Discusses cost/income ratios and progress."},
+        {"Name": "Financial Strategy", "Justification": "Mentions progress in achieving financial targets."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Expresses satisfaction with progress in cost management."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Again, a lot of that has been offset by the very good work we've been doing under Rebecca's leadership on the efficiency program. And as Christian mentioned in his remarks, we've made enormous progress towards the €2.5 billion goal in terms of cost takeout. And there is more to come thereafter, because I said in the last call, it's like peeling an onion. We see more opportunity as we get deeper into the transformation and deeper into some of the process improvements that we make.",
+    "Page": 31,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Discusses cost/income ratios and progress."},
+        {"Name": "Financial Strategy", "Justification": "Mentions progress in achieving financial targets."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Expresses satisfaction with progress in cost management."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Anke, I 100% support what James is saying. Just to reiterate that obviously, below 65% is not our endpoint. And for that, I simply also wanted to refer to slide 9 of our prepared remarks where obviously, we are now thinking, with all the investments we have done, what the outcome is. That goes beyond the €2.5 billion, which Rebecca is managing, but also here on purpose obviously, we gave you a little bit of an outlook. Clear dedication and goal by the bank to go lower.",
+    "Page": 31,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Discusses cost/income ratios and progress."},
+        {"Name": "Financial Strategy", "Justification": "Mentions progress in achieving financial targets."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Expresses satisfaction with progress in cost management."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "We should really look at €21.2 billion, I would say, is a more realistic number. And in that context, can you just tell us what it also means in terms of revenues impact? Is it around €400 million roughly as well, or slightly more, I assume?",
+    "Page": 32,
+    "Person": "Kian Abouhoussein",
+    "Role": "Analyst",
+    "Affiliation": "JP Morgan",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Inquires about cost guidance and revenue impact."},
+        {"Name": "Financial Strategy", "Justification": "Seeks understanding of financial targets and aspirations."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Factual inquiry about financial strategy."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "And in that context, can you talk a little bit about your ambition in Mittelstand? And if you have factored in anything for expansion in Mittelstand, considering there's clearly some opportunities in Germany? Potentially, targets in terms of Mittelstand growth, from your perspective, and can you talk about what you're actually doing on the ground to grow there?",
+    "Page": 32,
+    "Person": "Kian Abouhoussein",
+    "Role": "Analyst",
+    "Affiliation": "JP Morgan",
+    "Topics": [
+        {"Name": "Business Strategy", "Justification": "Inquires about growth strategy in Mittelstand."},
+        {"Name": "Market Opportunities", "Justification": "Seeks understanding of growth opportunities in Germany."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Factual inquiry about business strategy."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "And lastly, within cost, it is clearly a big topic around flexibility on costs. There's a higher cost guide, and that's a topic that we get a lot of questions on. If you can talk about flexibility in case you don't get the €32 billion plus.",
+    "Page": 32,
+    "Person": "Kian Abouhoussein",
+    "Role": "Analyst",
+    "Affiliation": "JP Morgan",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Inquires about cost flexibility and management."},
+        {"Name": "Financial Strategy", "Justification": "Seeks understanding of financial targets and aspirations."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Factual inquiry about financial strategy."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "And if I may just ask on slide 9, on your profit before tax on risk-weighted assets by business. Very interesting chart, clearly. And I'm just trying to understand what are the big buckets which we should look at in terms of underperforming businesses, so we understand what the opportunity is?",
+    "Page": 32,
+    "Person": "Kian Abouhoussein",
+    "Role": "Analyst",
+    "Affiliation": "JP Morgan",
+    "Topics": [
+        {"Name": "Financial Performance", "Justification": "Inquires about profit before tax on risk-weighted assets."},
+        {"Name": "Business Strategy", "Justification": "Seeks understanding of underperforming business areas."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Factual inquiry about financial performance."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Kian, thank you. Great questions. Again, lots to go through there. Let me start on the easy stuff and I'll give Christian the harder questions. The FX impact, you're absolutely right to draw attention to it, because what we wanted to do in our presentation was give you numbers that are consistent with what we've talked about for the past year, and hence, the presentation is presented in what we would call plan FX levels, where Euro/Dollar was around 1.10, 1.11. And then we give you the translation into December FX, which was about 1.05. That difference creates on the revenue side a number where €32 billion translates to about €32.8 billion. And on the expense side, as you say, €20.8 billion translates to €21.2 billion.",
+    "Page": 32,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Discusses FX impact on financial targets."},
+        {"Name": "Financial Strategy", "Justification": "Explains translation of financial targets."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about financial strategy."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "In the relationship between Euro and Dollar, Dollar strengthening actually helps our margin just a little bit. And here, I refer you to the currency breakout of revenues and expenses on page 36, where you can see that there's a little bit of asymmetry in Dollar/Euro, where we have more revenues than expenses expressed in Dollars, and that drives, therefore, just a little bit of FX improvement on the margin. Now, that relationship will change over the course of the year, so we'll continue to give you reporting that shows the year-on-year variances created by FX. One of the reasons talking about absolute numbers is always challenging, given that change.",
+    "Page": 33,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Discusses FX impact on financial targets."},
+        {"Name": "Financial Strategy", "Justification": "Explains translation of financial targets."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about financial strategy."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "And just to complete the picture, in case the question comes up, we do hedge the Sterling risk. You'll see that there's also an asymmetry in Sterling. We hedge that forward, it's rolling, so it's not forever, but that Euro/Sterling currency differences don't really change the end-year numbers a great deal.",
+    "Page": 33,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Cost Management", "Justification": "Discusses FX impact on financial targets."},
+        {"Name": "Financial Strategy", "Justification": "Explains translation of financial targets."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about financial strategy."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Looking at the Mittelstand Germany, very good question. Look, there are three or four areas where we are enhancing our business and also making sure that our portfolio with the Mittelstand is not only growing, but that the profitability of that portfolio, like indicated, by the way, on page 9, is further improving. Number one, we are going through this portfolio also from an SVA (Shareholder Value Add) point of view. Clearly, one where we can do better, where we have done already action, and where we review our underlying process, which is also part of page 9, i.e. how do we set up this bank front-to-back processes in the lending business, making sure that we don't have different processes for the various financing or payment flows that we are streamlining this. This is one area where actually a lot of investments of the Corporate Bank go, into the setup, into the platform, and the streamlining of the German setup. Just from an efficiency point of view, we will see a very positive impact there.",
+    "Page": 33,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Business Strategy", "Justification": "Discusses growth strategy in Mittelstand."},
+        {"Name": "Market Opportunities", "Justification": "Mentions opportunities in German market."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about growth opportunities."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Number two, of course, with the focus on the Corporate Bank in 2019, we also, and I can say that here also was a little bit of pride, we absolutely regained credibility and trust in the German home market. And if I look at our market shares in not only the DAX companies, but in the Mittelstand, be it the bigger family-owned companies, the Mittelstand itself, but also in the small business areas, we have actually gained momentum. We increase the revenues because the clients are feeling that Deutsche Bank wants to do that business. That was different before 2018. And with the constant improvements, also process wise, we succeed.",
+    "Page": 34,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Business Strategy", "Justification": "Discusses growth strategy in Mittelstand."},
+        {"Name": "Market Opportunities", "Justification": "Mentions opportunities in German market."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about growth opportunities."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Thirdly, we have invested into our coverage. For Germany, if you want to really bank it in the best way, you need to be regional. We have invested into our people here in order to make sure we have the right coverage.",
+    "Page": 34,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Business Strategy", "Justification": "Discusses growth strategy in Mittelstand."},
+        {"Name": "Market Opportunities", "Justification": "Mentions opportunities in German market."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about growth opportunities."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "And fourthly, yes, you alluded to that. Now, obviously, I'm not talking in detail about that, but each situation in the industry is providing a huge opportunity. There is uncertainty in the market, you know what I'm talking about. And that, obviously, is a chance and an opportunity for us. And we have started to work on this, and I'm sure more to come. Mittelstand Germany is, from a profitability point of view, efficiency point of view, and from a growth point of view, absolutely a focus. And let me also say, because I'm sure I get the next question, we are not doing that at any price. We also need to take into account the situation, the economy, and therefore, we will not alter our underwriting standards, because that would bite us. And therefore, we keep the underwriting standards which we had. But doing this, we can see a clear growth here at home.",
+    "Page": 34,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Business Strategy", "Justification": "Discusses growth strategy in Mittelstand."},
+        {"Name": "Market Opportunities", "Justification": "Mentions opportunities in German market."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about growth opportunities."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Kian, maybe just very briefly, you're pointing to slide 9, the chart on the right. It's what we can now work with over the next several years in a more fine-tuned way than previously, with each of the businesses looking at the drivers of their SVA or profitability against the resources that they deploy. It means we can grow revenues through things like repricing and just business growth. We can manage the expenses down, leveraging some of the tools we've built over the years, including driver-based cost management. And we can also work with the businesses to reduce the capital burden. And there, the efforts we've done to create resources efficiency on the RWA side is also helping.",
+    "Page": 35,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Financial Performance", "Justification": "Discusses profit before tax on risk-weighted assets."},
+        {"Name": "Business Strategy", "Justification": "Mentions strategies for improving profitability."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about financial strategy."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "To give you an example of where we are using these tools to make decisions, we've talked about the mortgage product, and especially in our home market and the de-emphasis over the past couple of years of that product. It's in part because at various prices, the product didn't meet its hurdles. Middle market lending, equally, in Germany is something we need to improve the profitability of. As Christian says, it's strategically critical, but it needs to carry itself from a profitability perspective as well. There are other portfolios all around the company that we're working with the businesses very closely on. And the level of engagement in this work is extremely high, which gives us a lot of optimism about how these levers can be pulled over the next several years to drive a very significant impact in bringing each of the units up, and also the average.",
+    "Page": 35,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Financial Performance", "Justification": "Discusses profit before tax on risk-weighted assets."},
+        {"Name": "Business Strategy", "Justification": "Mentions strategies for improving profitability."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about financial strategy."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "The first question I wanted to ask is actually a clarification regarding the buyback, the €750 million that you announced today. Just to understand when you intend to launch that buyback, are we talking just a few days, or are we talking several months before this gets launched?",
+    "Page": 35,
+    "Person": "Flora Bocahut",
+    "Role": "Analyst",
+    "Affiliation": "Barclays",
+    "Topics": [
+        {"Name": "Share Buyback", "Justification": "Inquires about timing of share repurchase."},
+        {"Name": "Capital Management", "Justification": "Seeks understanding of financial strategy."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Factual inquiry about financial strategy."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "And then on the questions, first is actually coming back to the CET1 trajectory and distribution plans. And thank you, Christian, for clarifying how the performance is going to play into potentially more distribution. But I also wanted to draw the attention on the regulatory risk here, because my understanding is that the Basel IV first-time implementation is now expecting to cost you just €5 billion additional RWA, so not the €7.5 billion that had initially been guided. Obviously, there is discussion ongoing on whether FRTB implementation in Europe is going to be delayed. I know no decision has been made yet, but assuming this would get delayed by another year, could that mean also upside risk to your distribution plans for 2025, beyond the actual performance itself?",
+    "Page": 35,
+    "Person": "Flora Bocahut",
+    "Role": "Analyst",
+    "Affiliation": "Barclays",
+    "Topics": [
+        {"Name": "Capital Management", "Justification": "Inquires about CET1 trajectory and distribution plans."},
+        {"Name": "Regulatory Compliance", "Justification": "Mentions regulatory risks and Basel IV implementation."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Factual inquiry about financial strategy."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "And then a word on provisions that we haven't discussed too much yet. I think the guidance you provide for 2025 points to €1.4 billion to €1.6 billion of provisions. Consensus is right in the middle at €1.5 billion. Just if you could discuss where's the risk on that number, whether to the upside or the downside, what gives you the confidence, the visibility on that number? With a special word also, if you can, on the US Commercial Real Estate portfolio, especially US offices, after the Fed is more likely now to keep rates higher for longer.",
+    "Page": 36,
+    "Person": "Flora Bocahut",
+    "Role": "Analyst",
+    "Affiliation": "Barclays",
+    "Topics": [
+        {"Name": "Financial Strategy", "Justification": "Inquires about provisions and risk assessment."},
+        {"Name": "Market Opportunities", "Justification": "Mentions US Commercial Real Estate portfolio."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Factual inquiry about financial strategy."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Thank you, Flora. Also, great questions. And for the others, I won't say great questions again, so don't be insulted if I don't repeat that. Briefly, on the start of the buyback program, every year we start with the buybacks that offset employee share deliveries against previous year compensation. It actually takes a little while until we complete that. We would only start the €750 million once that's done, it takes a little bit of time. But we're in the market, really, for most of the first quarter with the former buyback. As was the case last year, I can see some of this amount slipping into the early part of Q3, but we would expect to get the bulk of it done earlier than that.",
+    "Page": 36,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Share Buyback", "Justification": "Discusses timing of share repurchase."},
+        {"Name": "Capital Management", "Justification": "Explains financial strategy and timing."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about financial strategy."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "I'll talk about the trajectory on CRR 3. Look, it's more or less where we thought it would be. And, yes, there are some bits still to come. There's a bit of a round trip in the first quarter, because in the technical details of CRR 3, the operational risk RWA doesn't hit you January 1st, but only really March 31st. But the net number of about 15 basis points down, it's about 5 basis points up in our estimates on January 1st, and then 20 basis points to come on operational risk RWA. There are some modest adjustments also in CVA and credit risk that come into it. That trajectory is encouraging, but as Christian says, we need to continue seeing how the year develops. And actually, the calculations are relatively new and fresh, and so it'll take time for the systems, the models, and what have you, to settle a little bit, and we'll get back to you.",
+    "Page": 36,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Capital Management", "Justification": "Discusses CET1 trajectory and distribution plans."},
+        {"Name": "Regulatory Compliance", "Justification": "Mentions regulatory risks and Basel IV implementation."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about financial strategy."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "On FRTB, that is an opportunity. Naturally, we need to plan with the expectation that that will be implemented in January of next year. And we would stick with the estimate of around €7.5 billion of impact in RWA from January 1st, 2026. I think there's a decent likelihood it'll be delayed just because I think we all believe, and so does some of the legislators, that that creating a competitive disadvantage for the European banks in this area, waiting until FRTB implementation comes to the United States and UK would be unnecessarily damaging. And hence, we do think that's an opportunity. And at a point in time where it's more certain, it can enter into our capital trajectory and thinking. I would add that there are some other potential changes in our requirements going forward that can impact, say, MDA.",
+    "Page": 37,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Capital Management", "Justification": "Discusses CET1 trajectory and distribution plans."},
+        {"Name": "Regulatory Compliance", "Justification": "Mentions regulatory risks and Basel IV implementation."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about financial strategy."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "And then lastly, on CLP, it's a relatively wide range. I think if you asked us today, we'd probably say closer to the top end of the range, given that we still have to see, as you say, Commercial Real Estate, the moderation to take place. We're looking at the domestic middle market portfolio, as we've talked about in the past, in the economic environment, that's still uncertain. But we do think, and hence, the confidence about a moderation, we do think we're at the back end of this credit cycle.",
+    "Page": 37,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Financial Strategy", "Justification": "Discusses provisions and risk assessment."},
+        {"Name": "Market Opportunities", "Justification": "Mentions US Commercial Real Estate portfolio."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about financial strategy."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "From what we see today, we're quite confident about the improvement. €1.6 billion, so the high end would represent about 33 basis points, which, as you know from our prior years and also prior guidance, would be relatively at a higher end for us. But obviously, there's a lot still of water to pass under the bridge between now and the end of the year. Hopefully that covered all your questions, Flora.",
+    "Page": 37,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Financial Strategy", "Justification": "Discusses provisions and risk assessment."},
+        {"Name": "Market Opportunities", "Justification": "Mentions US Commercial Real Estate portfolio."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about financial strategy."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "Can I just clarify, when you just said that the CLP could be closer to the top end of the range, you mean €1.6 billion?",
+    "Page": 38,
+    "Person": "Flora Bocahut",
+    "Role": "Analyst",
+    "Affiliation": "Barclays",
+    "Topics": [
+        {"Name": "Financial Strategy", "Justification": "Seeks clarification on provisions and risk assessment."},
+        {"Name": "Market Opportunities", "Justification": "Mentions US Commercial Real Estate portfolio."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Factual inquiry about financial strategy."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Yes, with the €400 million on a quarterly basis. I think, a little bit like last year, we would expect maybe to start the first quarter or two at the higher end and then ameliorate as the year goes by. Again, we'll have to see how that plays out, both in each of the quarters and the year. Hence, we gave you quarterly guidance rather than the full year, but just the widest end of the range, therefore, would be the ends of the range of €1.4 billion to €1.6 billion.",
+    "Page": 38,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Financial Strategy", "Justification": "Discusses provisions and risk assessment."},
+        {"Name": "Market Opportunities", "Justification": "Mentions US Commercial Real Estate portfolio."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about financial strategy."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Incidentally, actually, just to come back on one thing, Flora, you're right. We looked at the consensus, and really, consensus is in line with our guidance and thinking on most line items, of which credit loss provisions is one. Obviously, the cost is another, prior to any adjustment for FX, as Kian pointed out. And the gap is really on revenues.",
+    "Page": 38,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Financial Strategy", "Justification": "Discusses provisions and risk assessment."},
+        {"Name": "Market Opportunities", "Justification": "Mentions US Commercial Real Estate portfolio."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about financial strategy."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "First a clarification, James. I think I heard you saying potential changes in requirements that can impact MDA. And can you elaborate on this? What did you mean, did I understand it correctly?",
+    "Page": 38,
+    "Person": "Giulia Aurora Miotto",
+    "Role": "Analyst",
+    "Affiliation": "Morgan Stanley",
+    "Topics": [
+        {"Name": "Regulatory Compliance", "Justification": "Seeks clarification on potential regulatory changes."},
+        {"Name": "Capital Management", "Justification": "Inquires about impact on MDA."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Factual inquiry about regulatory compliance."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "And then secondly, on the Private Bank, on slide 4, I appreciate you are on a journey, but still, 5% RoTE is still incredibly low. For a retail bank in Europe, it should be at least double. What RoTE do you have in mind? And what concrete actions are you taking to significantly boost the RoTE here?",
+    "Page": 38,
+    "Person": "Giulia Aurora Miotto",
+    "Role": "Analyst",
+    "Affiliation": "Morgan Stanley",
+    "Topics": [
+        {"Name": "Financial Performance", "Justification": "Inquires about RoTE and improvement strategies."},
+        {"Name": "Business Strategy", "Justification": "Seeks understanding of strategies to improve RoTE."}
+    ],
+    "Sentiment": {
+        "Score": -0.1,
+        "Category": "Slightly Negative",
+        "Justification": "Expresses concern about low RoTE."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Giulia, I'll start with the first on MDA and Christian will talk to the Private Bank. Look, MDA has gone up for us to around a little bit over 13.3% (Note: MDA is at 11.32%; 13.3% includes a targeted buffer of 200 basis points above MDA). And that, therefore, drives our views on the level of CET1 that we need to run at with an appropriate buffer against that. And, of course, the 13.8% is a good place to be in that regard. There will be some changes, as we talked about, FRTB denominator impact, but also potentially some changes in MDA. One example would be our O-SII positioning. It might take a year but given our relative G-SIB score, call it, we would expect to be coming down in our G-SIB over time, as an example.",
+    "Page": 39,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Regulatory Compliance", "Justification": "Discusses potential regulatory changes and impact on MDA."},
+        {"Name": "Capital Management", "Justification": "Explains CET1 and MDA considerations."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about regulatory compliance."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "The second is, inside our numbers you have the mortgage sectoral buffer, which is also impacting how we're capitalized. My point is that the level of capitalization that we operate at now, and the gap to MDA that's implied by it is a conservative point, let's put it that way, on both numbers.",
+    "Page": 39,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Regulatory Compliance", "Justification": "Discusses potential regulatory changes and impact on MDA."},
+        {"Name": "Capital Management", "Justification": "Explains CET1 and MDA considerations."}
+    ],
+    "Sentiment": {
+        "Score": 0.1,
+        "Category": "Neutral",
+        "Justification": "Provides factual information about regulatory compliance."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Giulia, thank you for your question. On the Private Bank, first of all, you're right. A 5% RoTE is obviously not sufficient at all. But therefore, we are doing this full transformation. And, by the way, if we digest and really divide the Private Bank, the real challenge, which we are working on, is in retail Germany. Now, when you look at the levers, first of all, as I said at the start, we see a good revenue momentum in the Private Bank, by the way, also in retail Germany. Overall, the Private Bank will grow by approximately €400 million year over year.",
+    "Page": 39,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Financial Performance", "Justification": "Discusses RoTE and improvement strategies."},
+        {"Name": "Business Strategy", "Justification": "Mentions strategies to improve RoTE."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about improving RoTE."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "Secondly, one of the largest cost takeouts, also in absolute numbers, is next year again in the Private Bank in Germany. Or that, what James also said, where we put restructuring costs for the further fallout, so to say, in a positive way from the IT technology transfer from Postbank to Deutsche Bank is paying off. Also there, from a cost point of view, it's another, and not only a low three-digit million number, where Claudio is reducing costs in the Private Bank.",
+    "Page": 39,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Financial Performance", "Justification": "Discusses RoTE and improvement strategies."},
+        {"Name": "Business Strategy", "Justification": "Mentions strategies to improve RoTE."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about improving RoTE."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "And thirdly, James gave you another example from a RoTE point of view, we have certain portfolios or some portfolios in the Private Bank, where from an SVA methodology, we are simply not rewarding our shareholders, and at the end of the day, our capital in a sufficient way. And that is the third lens, where with repricing, but also with reallocating capital, we are improving the picture.",
+    "Page": 40,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Financial Performance", "Justification": "Discusses RoTE and improvement strategies."},
+        {"Name": "Business Strategy", "Justification": "Mentions strategies to improve RoTE."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about improving RoTE."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "One bit only that you also see there is full attention on, and we are working on it. If you just look at Q4 2024 and you look at Claudio’s Private Bank costs versus Q4 2023, we had a reduction of 9%. That shows you that there is full focus on that transition that we know we need to get the costs down. The plans are there, implementation is underway. But fortunately, it's not only that, it's revenues and SVA.",
+    "Page": 40,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Financial Performance", "Justification": "Discusses RoTE and improvement strategies."},
+        {"Name": "Business Strategy", "Justification": "Mentions strategies to improve RoTE."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about improving RoTE."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "Can I just follow up, what is the difference in RoE between Germany and the rest within the Private Bank?",
+    "Page": 40,
+    "Person": "Giulia Aurora Miotto",
+    "Role": "Analyst",
+    "Affiliation": "Morgan Stanley",
+    "Topics": [
+        {"Name": "Financial Performance", "Justification": "Seeks clarification on RoE differences."},
+        {"Name": "Business Strategy", "Justification": "Inquires about regional performance differences."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Factual inquiry about financial performance."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "It's in particular, from a legacy point of view, the structure of the platforms, the IT platforms we have. As we did, fortunately, the transfer of the IT last year or in 2023 from Postbank to Deutsche Bank, we are again in a constant way pulling off applications, closing applications. Then we have, obviously, from simply a location point of view, we have the largest number of branch closures. Also the largest numbers of people where we're streamlining the processes, going more into a digital offering, in particular in the retail bank. You see most of the transformation and also the efficiency gains in the Private Bank Germany from the legacy point of view, system, location, branches, integration of Postbank is, in this regard, the one where most of the work is on.",
+    "Page": 40,
+    "Person": "Christian Sewing",
+    "Role": "Chief Executive Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Financial Performance", "Justification": "Discusses RoE differences and improvement strategies."},
+        {"Name": "Business Strategy", "Justification": "Mentions strategies to improve regional performance."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about improving regional performance."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "Got it. But I was on just the RoTE number between Germany and the rest within the Private Bank.",
+    "Page": 40,
+    "Person": "Giulia Aurora Miotto",
+    "Role": "Analyst",
+    "Affiliation": "Morgan Stanley",
+    "Topics": [
+        {"Name": "Financial Performance", "Justification": "Seeks clarification on RoTE differences."},
+        {"Name": "Business Strategy", "Justification": "Inquires about regional performance differences."}
+    ],
+    "Sentiment": {
+        "Score": 0.0,
+        "Category": "Neutral",
+        "Justification": "Factual inquiry about financial performance."
+    }
+}
+{
+    "Type": "Answer",
+    "Text": "We don't publish that number, but the Wealth Management & Private Banking is double digits. We can definitely converge well into the double digits as we address the issues that Christian just alluded to in the German retail Personal Banking segment.",
+    "Page": 40,
+    "Person": "James von Moltke",
+    "Role": "Chief Financial Officer",
+    "Affiliation": "Deutsche Bank",
+    "Topics": [
+        {"Name": "Financial Performance", "Justification": "Discusses RoTE differences and improvement strategies."},
+        {"Name": "Business Strategy", "Justification": "Mentions strategies to improve regional performance."}
+    ],
+    "Sentiment": {
+        "Score": 0.2,
+        "Category": "Slightly Positive",
+        "Justification": "Optimistic about improving regional performance."
+    }
+}
+{
+    "Type": "Question",
+    "Text": "Firstly, on the growth in FIC, if I take the guidance, the €200 million or so growth that you're guiding to for FIC in 2025, how does that shake out in terms of Financing versus non-Financing? If I look at the solid performance in Q4 Financing revenues, if I just run rate that through 2025,
