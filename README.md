@@ -1,4 +1,4 @@
-# Bank of England NLP Project
+# Bank of England NLP Project (currently being transferred from Azure DevOps to Github)
 
 This repository contains a set of Jupyter notebooks that process Q&A sections from PDF transcripts and perform Retrieval-Augmented Generation (RAG) on the extracted data.
 
