@@ -57,3 +57,6 @@ Below is a list of Python packages and dependencies used throughout these notebo
 4. **Run RAG**  
    Finally, run `rag_stable_output.ipynb` to conduct retrieval-augmented queries, demonstrating how to effectively query the Q&A data.
 
+## Known Issues / Future Work
+- Some outputs need better formatting to ensure JSON is valid for all use cases.
+- **TODO**: Improve API response handling to ensure structured data without post-processing.
