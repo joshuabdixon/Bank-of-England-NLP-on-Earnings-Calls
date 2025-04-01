@@ -1,0 +1,28 @@
+# Ignore secret files
+.env
+keys/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code config
+.vscode/
+
+# System junk
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.env/
+.venv/
+venv/
+
+# MLflow artifacts and outputs
+mlruns/
+2_extracted_data/
+3_processed_json/
+4_rag_output/
